@@ -1,0 +1,6532 @@
+Available
+array (
+  0 => '3662',
+  1 => '7156',
+  2 => '5644',
+  3 => '7504',
+  4 => '2645',
+  5 => '2175',
+  6 => '5137',
+  7 => '1734',
+  8 => '3459',
+  9 => '1421',
+)Loacked Resources
+array (
+  0 => 0,
+  1 => 0,
+  2 => 0,
+  3 => 0,
+  4 => 0,
+  5 => 1,
+  6 => 1,
+  7 => 0,
+  8 => 1,
+  9 => 1,
+)Generator started...
+Generator done...
+
+Allcated
+Facility Id: 0
+Resource ID 	 Requested	 Allocated
+0	16	15
+1	21	18
+2	25	18
+3	34	32
+4	12	9
+5	6	6
+6	15	15
+7	8	8
+8	10	10
+9	4	4
+
+Facility Id: 1
+Resource ID 	 Requested	 Allocated
+0	20	8
+1	26	26
+2	30	30
+3	40	33
+4	14	13
+5	8	8
+6	18	18
+7	9	9
+8	12	12
+9	5	5
+
+Facility Id: 2
+Resource ID 	 Requested	 Allocated
+0	7	6
+1	9	0
+2	11	2
+3	15	14
+4	5	3
+5	3	3
+6	7	7
+7	3	1
+8	4	4
+9	2	2
+
+Facility Id: 3
+Resource ID 	 Requested	 Allocated
+0	5	1
+1	6	4
+2	8	4
+3	10	5
+4	4	3
+5	2	2
+6	5	5
+7	2	2
+8	3	3
+9	1	1
+
+Facility Id: 4
+Resource ID 	 Requested	 Allocated
+0	12	11
+1	16	10
+2	19	9
+3	25	22
+4	9	8
+5	5	5
+6	12	12
+7	6	3
+8	8	8
+9	3	3
+
+Facility Id: 5
+Resource ID 	 Requested	 Allocated
+0	18	17
+1	24	19
+2	28	26
+3	37	37
+4	13	13
+5	7	7
+6	17	17
+7	9	7
+8	11	11
+9	5	5
+
+Facility Id: 6
+Resource ID 	 Requested	 Allocated
+0	21	21
+1	27	27
+2	32	19
+3	43	16
+4	15	11
+5	8	8
+6	19	19
+7	10	10
+8	13	13
+9	5	5
+
+Facility Id: 7
+Resource ID 	 Requested	 Allocated
+0	15	2
+1	20	4
+2	24	18
+3	32	24
+4	11	11
+5	6	6
+6	14	14
+7	7	3
+8	10	10
+9	4	4
+
+Facility Id: 8
+Resource ID 	 Requested	 Allocated
+0	6	5
+1	7	4
+2	9	4
+3	11	7
+4	4	4
+5	2	2
+6	5	5
+7	3	3
+8	3	3
+9	1	1
+
+Facility Id: 9
+Resource ID 	 Requested	 Allocated
+0	15	11
+1	20	14
+2	24	14
+3	31	29
+4	11	5
+5	6	6
+6	14	14
+7	7	1
+8	10	10
+9	4	4
+
+Facility Id: 10
+Resource ID 	 Requested	 Allocated
+0	1	1
+1	2	2
+2	2	1
+3	3	1
+4	1	0
+5	1	1
+6	1	1
+7	1	0
+8	1	1
+9	0	0
+
+Facility Id: 11
+Resource ID 	 Requested	 Allocated
+0	12	8
+1	15	9
+2	18	15
+3	24	17
+4	8	8
+5	5	5
+6	11	11
+7	5	5
+8	7	7
+9	3	3
+
+Facility Id: 12
+Resource ID 	 Requested	 Allocated
+0	14	14
+1	18	18
+2	21	11
+3	28	28
+4	10	9
+5	5	5
+6	13	13
+7	6	6
+8	9	9
+9	4	4
+
+Facility Id: 13
+Resource ID 	 Requested	 Allocated
+0	7	4
+1	10	9
+2	11	10
+3	15	1
+4	5	1
+5	3	3
+6	7	7
+7	3	0
+8	5	5
+9	2	2
+
+Facility Id: 14
+Resource ID 	 Requested	 Allocated
+0	5	3
+1	6	5
+2	8	5
+3	10	7
+4	4	3
+5	2	2
+6	5	5
+7	2	2
+8	3	3
+9	1	1
+
+Facility Id: 15
+Resource ID 	 Requested	 Allocated
+0	7	5
+1	9	8
+2	11	8
+3	14	7
+4	5	4
+5	3	3
+6	6	6
+7	3	2
+8	4	4
+9	2	2
+
+Facility Id: 16
+Resource ID 	 Requested	 Allocated
+0	2	2
+1	3	2
+2	3	1
+3	5	4
+4	2	1
+5	1	1
+6	2	2
+7	1	0
+8	1	1
+9	1	1
+
+Facility Id: 17
+Resource ID 	 Requested	 Allocated
+0	15	11
+1	20	20
+2	24	23
+3	32	28
+4	11	5
+5	6	6
+6	14	14
+7	7	6
+8	10	10
+9	4	4
+
+Facility Id: 18
+Resource ID 	 Requested	 Allocated
+0	8	5
+1	10	9
+2	12	12
+3	15	13
+4	5	5
+5	3	3
+6	7	7
+7	4	3
+8	5	5
+9	2	2
+
+Facility Id: 19
+Resource ID 	 Requested	 Allocated
+0	3	1
+1	4	1
+2	5	2
+3	6	4
+4	2	1
+5	1	1
+6	3	3
+7	1	0
+8	2	2
+9	1	1
+
+Facility Id: 20
+Resource ID 	 Requested	 Allocated
+0	16	16
+1	21	19
+2	25	14
+3	33	33
+4	12	9
+5	6	6
+6	15	15
+7	8	7
+8	10	10
+9	4	4
+
+Facility Id: 21
+Resource ID 	 Requested	 Allocated
+0	7	0
+1	10	5
+2	11	8
+3	15	8
+4	5	2
+5	3	3
+6	7	7
+7	3	0
+8	5	5
+9	2	2
+
+Facility Id: 22
+Resource ID 	 Requested	 Allocated
+0	15	14
+1	20	20
+2	24	22
+3	32	21
+4	11	6
+5	6	6
+6	14	14
+7	7	5
+8	10	10
+9	4	4
+
+Facility Id: 23
+Resource ID 	 Requested	 Allocated
+0	12	11
+1	15	15
+2	18	18
+3	24	24
+4	8	8
+5	5	5
+6	11	11
+7	5	4
+8	7	7
+9	3	3
+
+Facility Id: 24
+Resource ID 	 Requested	 Allocated
+0	18	13
+1	23	19
+2	27	18
+3	36	21
+4	13	11
+5	7	7
+6	17	17
+7	8	8
+8	11	11
+9	5	5
+
+Facility Id: 25
+Resource ID 	 Requested	 Allocated
+0	12	8
+1	16	16
+2	18	17
+3	24	18
+4	9	5
+5	5	5
+6	11	11
+7	6	4
+8	8	8
+9	3	3
+
+Facility Id: 26
+Resource ID 	 Requested	 Allocated
+0	4	1
+1	5	2
+2	5	4
+3	7	7
+4	3	3
+5	1	1
+6	3	3
+7	2	0
+8	2	2
+9	1	1
+
+Facility Id: 27
+Resource ID 	 Requested	 Allocated
+0	18	13
+1	24	17
+2	28	22
+3	38	31
+4	13	13
+5	7	7
+6	17	17
+7	9	7
+8	12	12
+9	5	5
+
+Facility Id: 28
+Resource ID 	 Requested	 Allocated
+0	12	12
+1	16	16
+2	19	17
+3	25	23
+4	9	9
+5	5	5
+6	11	11
+7	6	6
+8	8	8
+9	3	3
+
+Facility Id: 29
+Resource ID 	 Requested	 Allocated
+0	16	5
+1	21	16
+2	25	14
+3	33	33
+4	12	11
+5	6	6
+6	15	15
+7	8	8
+8	10	10
+9	4	4
+
+Facility Id: 30
+Resource ID 	 Requested	 Allocated
+0	3	1
+1	4	3
+2	5	5
+3	6	5
+4	2	1
+5	1	1
+6	3	3
+7	1	0
+8	2	2
+9	1	1
+
+Facility Id: 31
+Resource ID 	 Requested	 Allocated
+0	2	2
+1	2	1
+2	3	2
+3	4	3
+4	1	0
+5	1	1
+6	2	2
+7	1	1
+8	1	1
+9	0	0
+
+Facility Id: 32
+Resource ID 	 Requested	 Allocated
+0	15	15
+1	19	15
+2	23	20
+3	30	29
+4	11	10
+5	6	6
+6	14	14
+7	7	6
+8	9	9
+9	4	4
+
+Facility Id: 33
+Resource ID 	 Requested	 Allocated
+0	19	6
+1	25	17
+2	29	26
+3	39	32
+4	14	12
+5	8	8
+6	18	18
+7	9	5
+8	12	12
+9	5	5
+
+Facility Id: 34
+Resource ID 	 Requested	 Allocated
+0	14	7
+1	18	17
+2	22	13
+3	29	19
+4	10	10
+5	6	6
+6	13	13
+7	7	4
+8	9	9
+9	4	4
+
+Facility Id: 35
+Resource ID 	 Requested	 Allocated
+0	16	16
+1	21	15
+2	25	13
+3	33	18
+4	12	10
+5	6	6
+6	15	15
+7	8	5
+8	10	10
+9	4	4
+
+Facility Id: 36
+Resource ID 	 Requested	 Allocated
+0	1	0
+1	2	1
+2	2	1
+3	3	3
+4	1	0
+5	1	1
+6	1	1
+7	1	0
+8	1	1
+9	0	0
+
+Facility Id: 37
+Resource ID 	 Requested	 Allocated
+0	18	15
+1	23	13
+2	27	19
+3	36	29
+4	13	12
+5	7	7
+6	17	17
+7	8	6
+8	11	11
+9	5	5
+
+Facility Id: 38
+Resource ID 	 Requested	 Allocated
+0	15	8
+1	20	16
+2	24	18
+3	31	29
+4	11	5
+5	6	6
+6	14	14
+7	7	6
+8	10	10
+9	4	4
+
+Facility Id: 39
+Resource ID 	 Requested	 Allocated
+0	21	21
+1	28	24
+2	33	23
+3	44	32
+4	16	16
+5	8	8
+6	20	20
+7	10	10
+8	14	14
+9	6	6
+
+Facility Id: 40
+Resource ID 	 Requested	 Allocated
+0	13	1
+1	17	8
+2	20	15
+3	26	15
+4	9	1
+5	5	5
+6	12	12
+7	6	2
+8	8	8
+9	3	3
+
+Facility Id: 41
+Resource ID 	 Requested	 Allocated
+0	12	12
+1	15	9
+2	18	16
+3	24	23
+4	8	6
+5	5	5
+6	11	11
+7	6	3
+8	7	7
+9	3	3
+
+Facility Id: 42
+Resource ID 	 Requested	 Allocated
+0	15	7
+1	20	13
+2	23	14
+3	31	29
+4	11	8
+5	6	6
+6	14	14
+7	7	6
+8	9	9
+9	4	4
+
+Facility Id: 43
+Resource ID 	 Requested	 Allocated
+0	22	11
+1	29	20
+2	34	31
+3	45	17
+4	16	14
+5	9	9
+6	21	21
+7	10	10
+8	14	14
+9	6	6
+
+Facility Id: 44
+Resource ID 	 Requested	 Allocated
+0	8	8
+1	11	7
+2	13	2
+3	17	15
+4	6	5
+5	3	3
+6	8	8
+7	4	2
+8	5	5
+9	2	2
+
+Facility Id: 45
+Resource ID 	 Requested	 Allocated
+0	1	0
+1	1	0
+2	1	1
+3	2	1
+4	1	1
+5	0	0
+6	1	1
+7	0	0
+8	1	1
+9	0	0
+
+Facility Id: 46
+Resource ID 	 Requested	 Allocated
+0	19	18
+1	24	19
+2	29	19
+3	38	21
+4	13	12
+5	7	7
+6	17	17
+7	9	7
+8	12	12
+9	5	5
+
+Facility Id: 47
+Resource ID 	 Requested	 Allocated
+0	0	0
+1	0	0
+2	0	0
+3	0	0
+4	0	0
+5	0	0
+6	0	0
+7	0	0
+8	0	0
+9	0	0
+
+Facility Id: 48
+Resource ID 	 Requested	 Allocated
+0	11	7
+1	14	10
+2	17	8
+3	23	17
+4	8	7
+5	4	4
+6	10	10
+7	5	3
+8	7	7
+9	3	3
+
+Facility Id: 49
+Resource ID 	 Requested	 Allocated
+0	1	1
+1	1	0
+2	1	0
+3	1	0
+4	0	0
+5	0	0
+6	1	1
+7	0	0
+8	0	0
+9	0	0
+
+Facility Id: 50
+Resource ID 	 Requested	 Allocated
+0	14	14
+1	18	14
+2	21	19
+3	29	26
+4	10	9
+5	6	6
+6	13	13
+7	7	7
+8	9	9
+9	4	4
+
+Facility Id: 51
+Resource ID 	 Requested	 Allocated
+0	16	9
+1	21	15
+2	25	18
+3	34	25
+4	12	12
+5	6	6
+6	15	15
+7	8	6
+8	10	10
+9	4	4
+
+Facility Id: 52
+Resource ID 	 Requested	 Allocated
+0	2	1
+1	2	0
+2	2	0
+3	3	2
+4	1	1
+5	1	1
+6	1	1
+7	1	0
+8	1	1
+9	0	0
+
+Facility Id: 53
+Resource ID 	 Requested	 Allocated
+0	3	1
+1	4	3
+2	5	2
+3	6	5
+4	2	2
+5	1	1
+6	3	3
+7	1	1
+8	2	2
+9	1	1
+
+Facility Id: 54
+Resource ID 	 Requested	 Allocated
+0	20	17
+1	26	18
+2	31	21
+3	41	22
+4	14	13
+5	8	8
+6	19	19
+7	9	4
+8	13	13
+9	5	5
+
+Facility Id: 55
+Resource ID 	 Requested	 Allocated
+0	11	6
+1	14	14
+2	17	17
+3	23	23
+4	8	8
+5	4	4
+6	10	10
+7	5	5
+8	7	7
+9	3	3
+
+Facility Id: 56
+Resource ID 	 Requested	 Allocated
+0	12	9
+1	16	8
+2	19	0
+3	25	11
+4	9	4
+5	5	5
+6	12	12
+7	6	0
+8	8	8
+9	3	3
+
+Facility Id: 57
+Resource ID 	 Requested	 Allocated
+0	12	9
+1	16	12
+2	19	19
+3	25	25
+4	9	7
+5	5	5
+6	12	12
+7	6	6
+8	8	8
+9	3	3
+
+Facility Id: 58
+Resource ID 	 Requested	 Allocated
+0	5	0
+1	6	1
+2	8	6
+3	10	7
+4	4	0
+5	2	2
+6	5	5
+7	2	2
+8	3	3
+9	1	1
+
+Facility Id: 59
+Resource ID 	 Requested	 Allocated
+0	14	14
+1	18	18
+2	21	15
+3	29	29
+4	10	6
+5	6	6
+6	13	13
+7	7	7
+8	9	9
+9	4	4
+
+Facility Id: 60
+Resource ID 	 Requested	 Allocated
+0	17	16
+1	22	22
+2	27	27
+3	35	22
+4	12	11
+5	7	7
+6	16	16
+7	8	8
+8	11	11
+9	4	4
+
+Facility Id: 61
+Resource ID 	 Requested	 Allocated
+0	12	11
+1	16	5
+2	19	3
+3	25	10
+4	9	8
+5	5	5
+6	12	12
+7	6	6
+8	8	8
+9	3	3
+
+Facility Id: 62
+Resource ID 	 Requested	 Allocated
+0	17	13
+1	22	9
+2	26	13
+3	34	32
+4	12	0
+5	7	7
+6	16	16
+7	8	8
+8	10	10
+9	4	4
+
+Facility Id: 63
+Resource ID 	 Requested	 Allocated
+0	15	14
+1	20	15
+2	23	17
+3	31	29
+4	11	7
+5	6	6
+6	14	14
+7	7	7
+8	9	9
+9	4	4
+
+Facility Id: 64
+Resource ID 	 Requested	 Allocated
+0	16	12
+1	20	15
+2	24	16
+3	32	23
+4	11	10
+5	6	6
+6	15	15
+7	7	3
+8	10	10
+9	4	4
+
+Facility Id: 65
+Resource ID 	 Requested	 Allocated
+0	12	11
+1	16	15
+2	19	10
+3	25	22
+4	9	1
+5	5	5
+6	11	11
+7	6	6
+8	8	8
+9	3	3
+
+Facility Id: 66
+Resource ID 	 Requested	 Allocated
+0	2	0
+1	3	0
+2	3	3
+3	5	2
+4	2	0
+5	1	1
+6	2	2
+7	1	0
+8	1	1
+9	1	1
+
+Facility Id: 67
+Resource ID 	 Requested	 Allocated
+0	14	14
+1	18	18
+2	22	15
+3	29	20
+4	10	9
+5	6	6
+6	13	13
+7	7	7
+8	9	9
+9	4	4
+
+Facility Id: 68
+Resource ID 	 Requested	 Allocated
+0	13	7
+1	18	15
+2	21	19
+3	28	11
+4	10	4
+5	5	5
+6	13	13
+7	6	1
+8	8	8
+9	3	3
+
+Facility Id: 69
+Resource ID 	 Requested	 Allocated
+0	15	13
+1	20	19
+2	24	24
+3	31	29
+4	11	7
+5	6	6
+6	14	14
+7	7	7
+8	10	10
+9	4	4
+
+Facility Id: 70
+Resource ID 	 Requested	 Allocated
+0	19	19
+1	24	16
+2	29	13
+3	38	32
+4	13	13
+5	7	7
+6	17	17
+7	9	6
+8	12	12
+9	5	5
+
+Facility Id: 71
+Resource ID 	 Requested	 Allocated
+0	0	0
+1	1	1
+2	1	1
+3	1	1
+4	0	0
+5	0	0
+6	0	0
+7	0	0
+8	0	0
+9	0	0
+
+Facility Id: 72
+Resource ID 	 Requested	 Allocated
+0	11	7
+1	15	7
+2	17	12
+3	23	19
+4	8	5
+5	4	4
+6	11	11
+7	5	5
+8	7	7
+9	3	3
+
+Facility Id: 73
+Resource ID 	 Requested	 Allocated
+0	12	12
+1	15	15
+2	18	14
+3	24	17
+4	8	8
+5	5	5
+6	11	11
+7	6	3
+8	7	7
+9	3	3
+
+Facility Id: 74
+Resource ID 	 Requested	 Allocated
+0	16	6
+1	21	1
+2	25	15
+3	33	26
+4	12	7
+5	6	6
+6	15	15
+7	8	7
+8	10	10
+9	4	4
+
+Facility Id: 75
+Resource ID 	 Requested	 Allocated
+0	18	11
+1	24	17
+2	28	18
+3	37	19
+4	13	10
+5	7	7
+6	17	17
+7	9	8
+8	11	11
+9	5	5
+
+Facility Id: 76
+Resource ID 	 Requested	 Allocated
+0	16	16
+1	21	21
+2	25	23
+3	33	33
+4	12	12
+5	6	6
+6	15	15
+7	8	5
+8	10	10
+9	4	4
+
+Facility Id: 77
+Resource ID 	 Requested	 Allocated
+0	12	12
+1	16	5
+2	18	17
+3	24	2
+4	9	1
+5	5	5
+6	11	11
+7	6	6
+8	8	8
+9	3	3
+
+Facility Id: 78
+Resource ID 	 Requested	 Allocated
+0	18	10
+1	24	15
+2	28	24
+3	37	35
+4	13	11
+5	7	7
+6	17	17
+7	9	8
+8	11	11
+9	5	5
+
+Facility Id: 79
+Resource ID 	 Requested	 Allocated
+0	9	6
+1	12	9
+2	14	12
+3	19	13
+4	7	7
+5	4	4
+6	9	9
+7	4	3
+8	6	6
+9	2	2
+
+Facility Id: 80
+Resource ID 	 Requested	 Allocated
+0	2	1
+1	3	0
+2	4	1
+3	5	3
+4	2	2
+5	1	1
+6	2	2
+7	1	0
+8	2	2
+9	1	1
+
+Facility Id: 81
+Resource ID 	 Requested	 Allocated
+0	1	0
+1	1	1
+2	1	0
+3	2	0
+4	1	0
+5	0	0
+6	1	1
+7	0	0
+8	1	1
+9	0	0
+
+Facility Id: 82
+Resource ID 	 Requested	 Allocated
+0	21	11
+1	27	21
+2	32	31
+3	42	39
+4	15	9
+5	8	8
+6	19	19
+7	10	9
+8	13	13
+9	5	5
+
+Facility Id: 83
+Resource ID 	 Requested	 Allocated
+0	8	5
+1	11	6
+2	13	13
+3	17	15
+4	6	4
+5	3	3
+6	8	8
+7	4	4
+8	5	5
+9	2	2
+
+Facility Id: 84
+Resource ID 	 Requested	 Allocated
+0	1	1
+1	1	0
+2	1	1
+3	2	1
+4	1	1
+5	0	0
+6	1	1
+7	0	0
+8	1	1
+9	0	0
+
+Facility Id: 85
+Resource ID 	 Requested	 Allocated
+0	18	10
+1	24	23
+2	28	15
+3	38	32
+4	13	11
+5	7	7
+6	17	17
+7	9	9
+8	12	12
+9	5	5
+
+Facility Id: 86
+Resource ID 	 Requested	 Allocated
+0	19	9
+1	24	12
+2	29	19
+3	38	20
+4	13	13
+5	7	7
+6	17	17
+7	9	6
+8	12	12
+9	5	5
+
+Facility Id: 87
+Resource ID 	 Requested	 Allocated
+0	3	2
+1	4	2
+2	5	3
+3	7	6
+4	2	1
+5	1	1
+6	3	3
+7	2	2
+8	2	2
+9	1	1
+
+Facility Id: 88
+Resource ID 	 Requested	 Allocated
+0	22	22
+1	29	19
+2	34	24
+3	45	25
+4	16	15
+5	9	9
+6	21	21
+7	10	9
+8	14	14
+9	6	6
+
+Facility Id: 89
+Resource ID 	 Requested	 Allocated
+0	10	3
+1	13	9
+2	15	10
+3	20	20
+4	7	5
+5	4	4
+6	9	9
+7	5	0
+8	6	6
+9	3	3
+
+Facility Id: 90
+Resource ID 	 Requested	 Allocated
+0	2	2
+1	2	1
+2	2	0
+3	3	1
+4	1	0
+5	1	1
+6	1	1
+7	1	0
+8	1	1
+9	0	0
+
+Facility Id: 91
+Resource ID 	 Requested	 Allocated
+0	5	4
+1	6	6
+2	8	8
+3	10	10
+4	4	4
+5	2	2
+6	5	5
+7	2	2
+8	3	3
+9	1	1
+
+Facility Id: 92
+Resource ID 	 Requested	 Allocated
+0	4	3
+1	5	4
+2	6	4
+3	8	3
+4	3	2
+5	2	2
+6	4	4
+7	2	1
+8	3	3
+9	1	1
+
+Facility Id: 93
+Resource ID 	 Requested	 Allocated
+0	2	2
+1	2	2
+2	3	3
+3	4	4
+4	1	1
+5	1	1
+6	2	2
+7	1	0
+8	1	1
+9	0	0
+
+Facility Id: 94
+Resource ID 	 Requested	 Allocated
+0	13	11
+1	17	10
+2	20	12
+3	27	20
+4	10	10
+5	5	5
+6	12	12
+7	6	5
+8	8	8
+9	3	3
+
+Facility Id: 95
+Resource ID 	 Requested	 Allocated
+0	2	2
+1	3	1
+2	3	1
+3	5	5
+4	2	1
+5	1	1
+6	2	2
+7	1	0
+8	1	1
+9	1	1
+
+Facility Id: 96
+Resource ID 	 Requested	 Allocated
+0	6	6
+1	8	8
+2	9	9
+3	12	11
+4	4	4
+5	2	2
+6	6	6
+7	3	3
+8	4	4
+9	2	2
+
+Facility Id: 97
+Resource ID 	 Requested	 Allocated
+0	1	0
+1	1	1
+2	1	0
+3	2	1
+4	1	0
+5	0	0
+6	1	1
+7	0	0
+8	1	1
+9	0	0
+
+Facility Id: 98
+Resource ID 	 Requested	 Allocated
+0	10	9
+1	13	12
+2	15	9
+3	20	13
+4	7	6
+5	4	4
+6	9	9
+7	5	3
+8	6	6
+9	3	3
+
+Facility Id: 99
+Resource ID 	 Requested	 Allocated
+0	7	7
+1	9	7
+2	11	6
+3	14	12
+4	5	2
+5	3	3
+6	6	6
+7	3	1
+8	4	4
+9	2	2
+
+Facility Id: 100
+Resource ID 	 Requested	 Allocated
+0	3	3
+1	4	4
+2	4	4
+3	6	3
+4	2	2
+5	1	1
+6	3	3
+7	1	1
+8	2	2
+9	1	1
+
+Facility Id: 101
+Resource ID 	 Requested	 Allocated
+0	8	4
+1	10	5
+2	12	8
+3	15	12
+4	5	3
+5	3	3
+6	7	7
+7	4	3
+8	5	5
+9	2	2
+
+Facility Id: 102
+Resource ID 	 Requested	 Allocated
+0	16	15
+1	20	15
+2	24	12
+3	32	18
+4	11	6
+5	6	6
+6	15	15
+7	7	5
+8	10	10
+9	4	4
+
+Facility Id: 103
+Resource ID 	 Requested	 Allocated
+0	2	2
+1	3	3
+2	3	3
+3	4	4
+4	1	1
+5	1	1
+6	2	2
+7	1	1
+8	1	1
+9	1	1
+
+Facility Id: 104
+Resource ID 	 Requested	 Allocated
+0	2	2
+1	3	2
+2	4	1
+3	5	1
+4	2	1
+5	1	1
+6	2	2
+7	1	1
+8	2	2
+9	1	1
+
+Facility Id: 105
+Resource ID 	 Requested	 Allocated
+0	21	18
+1	27	13
+2	32	23
+3	42	21
+4	15	12
+5	8	8
+6	19	19
+7	10	10
+8	13	13
+9	5	5
+
+Facility Id: 106
+Resource ID 	 Requested	 Allocated
+0	3	1
+1	4	4
+2	4	3
+3	6	3
+4	2	2
+5	1	1
+6	3	3
+7	1	0
+8	2	2
+9	1	1
+
+Facility Id: 107
+Resource ID 	 Requested	 Allocated
+0	13	13
+1	18	10
+2	21	18
+3	28	24
+4	10	5
+5	5	5
+6	13	13
+7	6	6
+8	8	8
+9	3	3
+
+Facility Id: 108
+Resource ID 	 Requested	 Allocated
+0	8	8
+1	11	9
+2	13	13
+3	17	13
+4	6	3
+5	3	3
+6	8	8
+7	4	3
+8	5	5
+9	2	2
+
+Facility Id: 109
+Resource ID 	 Requested	 Allocated
+0	9	6
+1	12	11
+2	14	14
+3	18	9
+4	6	5
+5	4	4
+6	8	8
+7	4	4
+8	6	6
+9	2	2
+
+Facility Id: 110
+Resource ID 	 Requested	 Allocated
+0	6	6
+1	7	0
+2	9	1
+3	11	11
+4	4	4
+5	2	2
+6	5	5
+7	3	2
+8	3	3
+9	1	1
+
+Facility Id: 111
+Resource ID 	 Requested	 Allocated
+0	11	11
+1	14	10
+2	17	11
+3	22	17
+4	8	1
+5	4	4
+6	10	10
+7	5	4
+8	7	7
+9	3	3
+
+Facility Id: 112
+Resource ID 	 Requested	 Allocated
+0	2	2
+1	3	1
+2	3	1
+3	5	2
+4	2	1
+5	1	1
+6	2	2
+7	1	1
+8	1	1
+9	1	1
+
+Facility Id: 113
+Resource ID 	 Requested	 Allocated
+0	12	12
+1	15	13
+2	18	18
+3	24	21
+4	8	8
+5	5	5
+6	11	11
+7	5	4
+8	7	7
+9	3	3
+
+Facility Id: 114
+Resource ID 	 Requested	 Allocated
+0	16	12
+1	21	18
+2	25	13
+3	33	33
+4	12	12
+5	6	6
+6	15	15
+7	8	8
+8	10	10
+9	4	4
+
+Facility Id: 115
+Resource ID 	 Requested	 Allocated
+0	2	0
+1	2	1
+2	2	0
+3	3	3
+4	1	1
+5	1	1
+6	1	1
+7	1	0
+8	1	1
+9	0	0
+
+Facility Id: 116
+Resource ID 	 Requested	 Allocated
+0	19	19
+1	25	23
+2	30	26
+3	39	30
+4	14	14
+5	8	8
+6	18	18
+7	9	9
+8	12	12
+9	5	5
+
+Facility Id: 117
+Resource ID 	 Requested	 Allocated
+0	10	3
+1	13	2
+2	15	7
+3	20	5
+4	7	4
+5	4	4
+6	9	9
+7	5	0
+8	6	6
+9	3	3
+
+Facility Id: 118
+Resource ID 	 Requested	 Allocated
+0	21	20
+1	27	27
+2	32	31
+3	43	43
+4	15	8
+5	8	8
+6	19	19
+7	10	10
+8	13	13
+9	5	5
+
+Facility Id: 119
+Resource ID 	 Requested	 Allocated
+0	10	5
+1	13	0
+2	15	0
+3	20	18
+4	7	6
+5	4	4
+6	9	9
+7	5	0
+8	6	6
+9	3	3
+
+Facility Id: 120
+Resource ID 	 Requested	 Allocated
+0	16	10
+1	21	15
+2	25	17
+3	34	33
+4	12	8
+5	6	6
+6	15	15
+7	8	6
+8	10	10
+9	4	4
+
+Facility Id: 121
+Resource ID 	 Requested	 Allocated
+0	17	17
+1	22	22
+2	26	26
+3	34	25
+4	12	12
+5	7	7
+6	16	16
+7	8	8
+8	10	10
+9	4	4
+
+Facility Id: 122
+Resource ID 	 Requested	 Allocated
+0	10	2
+1	13	8
+2	15	14
+3	20	10
+4	7	2
+5	4	4
+6	9	9
+7	5	0
+8	6	6
+9	3	3
+
+Facility Id: 123
+Resource ID 	 Requested	 Allocated
+0	0	0
+1	0	0
+2	0	0
+3	0	0
+4	0	0
+5	0	0
+6	0	0
+7	0	0
+8	0	0
+9	0	0
+
+Facility Id: 124
+Resource ID 	 Requested	 Allocated
+0	1	1
+1	2	2
+2	2	2
+3	3	1
+4	1	0
+5	1	1
+6	1	1
+7	1	1
+8	1	1
+9	0	0
+
+Facility Id: 125
+Resource ID 	 Requested	 Allocated
+0	21	21
+1	28	28
+2	33	33
+3	44	44
+4	15	7
+5	8	8
+6	20	20
+7	10	10
+8	13	13
+9	5	5
+
+Facility Id: 126
+Resource ID 	 Requested	 Allocated
+0	20	15
+1	26	1
+2	30	4
+3	40	18
+4	14	11
+5	8	8
+6	18	18
+7	9	2
+8	12	12
+9	5	5
+
+Facility Id: 127
+Resource ID 	 Requested	 Allocated
+0	18	9
+1	24	14
+2	28	15
+3	38	25
+4	13	7
+5	7	7
+6	17	17
+7	9	4
+8	12	12
+9	5	5
+
+Facility Id: 128
+Resource ID 	 Requested	 Allocated
+0	12	10
+1	16	15
+2	18	18
+3	24	18
+4	9	9
+5	5	5
+6	11	11
+7	6	3
+8	8	8
+9	3	3
+
+Facility Id: 129
+Resource ID 	 Requested	 Allocated
+0	12	7
+1	16	14
+2	19	0
+3	25	25
+4	9	6
+5	5	5
+6	11	11
+7	6	6
+8	8	8
+9	3	3
+
+Facility Id: 130
+Resource ID 	 Requested	 Allocated
+0	1	0
+1	1	0
+2	1	1
+3	2	1
+4	1	1
+5	0	0
+6	1	1
+7	0	0
+8	1	1
+9	0	0
+
+Facility Id: 131
+Resource ID 	 Requested	 Allocated
+0	2	2
+1	2	1
+2	2	1
+3	3	3
+4	1	0
+5	1	1
+6	1	1
+7	1	1
+8	1	1
+9	0	0
+
+Facility Id: 132
+Resource ID 	 Requested	 Allocated
+0	13	12
+1	18	12
+2	21	11
+3	28	27
+4	10	5
+5	5	5
+6	13	13
+7	6	6
+8	8	8
+9	3	3
+
+Facility Id: 133
+Resource ID 	 Requested	 Allocated
+0	21	18
+1	27	16
+2	32	31
+3	42	23
+4	15	9
+5	8	8
+6	19	19
+7	10	6
+8	13	13
+9	5	5
+
+Facility Id: 134
+Resource ID 	 Requested	 Allocated
+0	2	1
+1	2	1
+2	3	0
+3	4	3
+4	1	0
+5	1	1
+6	2	2
+7	1	0
+8	1	1
+9	0	0
+
+Facility Id: 135
+Resource ID 	 Requested	 Allocated
+0	19	15
+1	25	25
+2	30	24
+3	39	38
+4	14	7
+5	8	8
+6	18	18
+7	9	6
+8	12	12
+9	5	5
+
+Facility Id: 136
+Resource ID 	 Requested	 Allocated
+0	4	4
+1	5	2
+2	6	3
+3	8	4
+4	3	2
+5	1	1
+6	4	4
+7	2	2
+8	2	2
+9	1	1
+
+Facility Id: 137
+Resource ID 	 Requested	 Allocated
+0	5	4
+1	7	5
+2	8	4
+3	10	9
+4	4	2
+5	2	2
+6	5	5
+7	2	2
+8	3	3
+9	1	1
+
+Facility Id: 138
+Resource ID 	 Requested	 Allocated
+0	12	5
+1	16	14
+2	18	16
+3	24	18
+4	9	8
+5	5	5
+6	11	11
+7	6	4
+8	8	8
+9	3	3
+
+Facility Id: 139
+Resource ID 	 Requested	 Allocated
+0	22	12
+1	28	24
+2	33	24
+3	44	29
+4	16	11
+5	9	9
+6	20	20
+7	10	9
+8	14	14
+9	6	6
+
+Facility Id: 140
+Resource ID 	 Requested	 Allocated
+0	2	2
+1	3	3
+2	4	4
+3	5	1
+4	2	2
+5	1	1
+6	2	2
+7	1	1
+8	2	2
+9	1	1
+
+Facility Id: 141
+Resource ID 	 Requested	 Allocated
+0	5	3
+1	6	6
+2	8	3
+3	10	0
+4	4	0
+5	2	2
+6	5	5
+7	2	0
+8	3	3
+9	1	1
+
+Facility Id: 142
+Resource ID 	 Requested	 Allocated
+0	18	15
+1	23	21
+2	27	18
+3	36	32
+4	13	11
+5	7	7
+6	17	17
+7	8	8
+8	11	11
+9	5	5
+
+Facility Id: 143
+Resource ID 	 Requested	 Allocated
+0	8	8
+1	10	7
+2	12	11
+3	16	14
+4	6	6
+5	3	3
+6	7	7
+7	4	3
+8	5	5
+9	2	2
+
+Facility Id: 144
+Resource ID 	 Requested	 Allocated
+0	11	7
+1	15	14
+2	17	9
+3	23	14
+4	8	2
+5	4	4
+6	11	11
+7	5	5
+8	7	7
+9	3	3
+
+Facility Id: 145
+Resource ID 	 Requested	 Allocated
+0	21	17
+1	27	14
+2	32	32
+3	43	43
+4	15	15
+5	8	8
+6	20	20
+7	10	10
+8	13	13
+9	5	5
+
+Facility Id: 146
+Resource ID 	 Requested	 Allocated
+0	12	2
+1	16	16
+2	18	14
+3	24	14
+4	9	7
+5	5	5
+6	11	11
+7	6	5
+8	8	8
+9	3	3
+
+Facility Id: 147
+Resource ID 	 Requested	 Allocated
+0	21	10
+1	28	27
+2	33	19
+3	44	25
+4	16	13
+5	8	8
+6	20	20
+7	10	8
+8	14	14
+9	6	6
+
+Facility Id: 148
+Resource ID 	 Requested	 Allocated
+0	2	2
+1	3	2
+2	4	4
+3	5	4
+4	2	1
+5	1	1
+6	2	2
+7	1	1
+8	2	2
+9	1	1
+
+Facility Id: 149
+Resource ID 	 Requested	 Allocated
+0	8	6
+1	11	5
+2	13	9
+3	17	16
+4	6	4
+5	3	3
+6	8	8
+7	4	1
+8	5	5
+9	2	2
+
+Facility Id: 150
+Resource ID 	 Requested	 Allocated
+0	18	12
+1	24	22
+2	28	17
+3	37	23
+4	13	13
+5	7	7
+6	17	17
+7	9	8
+8	11	11
+9	5	5
+
+Facility Id: 151
+Resource ID 	 Requested	 Allocated
+0	6	6
+1	8	0
+2	10	7
+3	13	12
+4	4	3
+5	2	2
+6	6	6
+7	3	1
+8	4	4
+9	2	2
+
+Facility Id: 152
+Resource ID 	 Requested	 Allocated
+0	4	3
+1	5	4
+2	6	5
+3	9	7
+4	3	1
+5	2	2
+6	4	4
+7	2	2
+8	3	3
+9	1	1
+
+Facility Id: 153
+Resource ID 	 Requested	 Allocated
+0	6	6
+1	7	6
+2	9	8
+3	12	7
+4	4	3
+5	2	2
+6	5	5
+7	3	3
+8	4	4
+9	1	1
+
+Facility Id: 154
+Resource ID 	 Requested	 Allocated
+0	17	9
+1	22	11
+2	26	23
+3	35	33
+4	12	6
+5	7	7
+6	16	16
+7	8	6
+8	11	11
+9	4	4
+
+Facility Id: 155
+Resource ID 	 Requested	 Allocated
+0	12	7
+1	16	16
+2	19	17
+3	25	23
+4	9	9
+5	5	5
+6	12	12
+7	6	6
+8	8	8
+9	3	3
+
+Facility Id: 156
+Resource ID 	 Requested	 Allocated
+0	13	5
+1	17	3
+2	20	12
+3	26	14
+4	9	5
+5	5	5
+6	12	12
+7	6	6
+8	8	8
+9	3	3
+
+Facility Id: 157
+Resource ID 	 Requested	 Allocated
+0	17	15
+1	23	15
+2	27	16
+3	36	22
+4	13	10
+5	7	7
+6	16	16
+7	8	7
+8	11	11
+9	5	5
+
+Facility Id: 158
+Resource ID 	 Requested	 Allocated
+0	10	5
+1	13	8
+2	16	15
+3	21	17
+4	7	4
+5	4	4
+6	10	10
+7	5	2
+8	6	6
+9	3	3
+
+Facility Id: 159
+Resource ID 	 Requested	 Allocated
+0	2	2
+1	3	3
+2	3	3
+3	5	5
+4	2	2
+5	1	1
+6	2	2
+7	1	0
+8	1	1
+9	1	1
+
+Facility Id: 160
+Resource ID 	 Requested	 Allocated
+0	4	3
+1	6	2
+2	7	4
+3	9	7
+4	3	1
+5	2	2
+6	4	4
+7	2	2
+8	3	3
+9	1	1
+
+Facility Id: 161
+Resource ID 	 Requested	 Allocated
+0	7	4
+1	10	10
+2	11	9
+3	15	13
+4	5	4
+5	3	3
+6	7	7
+7	3	3
+8	5	5
+9	2	2
+
+Facility Id: 162
+Resource ID 	 Requested	 Allocated
+0	21	21
+1	28	26
+2	33	24
+3	44	30
+4	16	8
+5	8	8
+6	20	20
+7	10	7
+8	14	14
+9	6	6
+
+Facility Id: 163
+Resource ID 	 Requested	 Allocated
+0	18	18
+1	24	17
+2	28	21
+3	37	36
+4	13	13
+5	7	7
+6	17	17
+7	9	9
+8	11	11
+9	5	5
+
+Facility Id: 164
+Resource ID 	 Requested	 Allocated
+0	14	7
+1	18	7
+2	21	10
+3	29	29
+4	10	3
+5	6	6
+6	13	13
+7	7	4
+8	9	9
+9	4	4
+
+Facility Id: 165
+Resource ID 	 Requested	 Allocated
+0	19	18
+1	24	18
+2	29	23
+3	38	35
+4	13	12
+5	7	7
+6	17	17
+7	9	9
+8	12	12
+9	5	5
+
+Facility Id: 166
+Resource ID 	 Requested	 Allocated
+0	19	6
+1	25	16
+2	29	26
+3	39	20
+4	14	7
+5	7	7
+6	18	18
+7	9	4
+8	12	12
+9	5	5
+
+Facility Id: 167
+Resource ID 	 Requested	 Allocated
+0	7	6
+1	9	7
+2	10	9
+3	14	12
+4	5	5
+5	3	3
+6	6	6
+7	3	2
+8	4	4
+9	2	2
+
+Facility Id: 168
+Resource ID 	 Requested	 Allocated
+0	5	2
+1	7	1
+2	8	4
+3	10	2
+4	4	2
+5	2	2
+6	5	5
+7	2	2
+8	3	3
+9	1	1
+
+Facility Id: 169
+Resource ID 	 Requested	 Allocated
+0	10	8
+1	14	14
+2	16	14
+3	21	18
+4	8	6
+5	4	4
+6	10	10
+7	5	2
+8	7	7
+9	3	3
+
+Facility Id: 170
+Resource ID 	 Requested	 Allocated
+0	16	15
+1	21	21
+2	25	23
+3	33	26
+4	12	12
+5	6	6
+6	15	15
+7	8	5
+8	10	10
+9	4	4
+
+Facility Id: 171
+Resource ID 	 Requested	 Allocated
+0	22	12
+1	28	3
+2	33	18
+3	44	25
+4	16	12
+5	9	9
+6	20	20
+7	10	7
+8	14	14
+9	6	6
+
+Facility Id: 172
+Resource ID 	 Requested	 Allocated
+0	19	17
+1	25	14
+2	29	26
+3	39	33
+4	14	9
+5	7	7
+6	18	18
+7	9	5
+8	12	12
+9	5	5
+
+Facility Id: 173
+Resource ID 	 Requested	 Allocated
+0	6	6
+1	8	8
+2	10	9
+3	13	13
+4	4	4
+5	2	2
+6	6	6
+7	3	3
+8	4	4
+9	2	2
+
+Facility Id: 174
+Resource ID 	 Requested	 Allocated
+0	8	3
+1	11	5
+2	13	11
+3	17	10
+4	6	5
+5	3	3
+6	8	8
+7	4	4
+8	5	5
+9	2	2
+
+Facility Id: 175
+Resource ID 	 Requested	 Allocated
+0	1	1
+1	1	0
+2	1	0
+3	1	0
+4	0	0
+5	0	0
+6	1	1
+7	0	0
+8	0	0
+9	0	0
+
+Facility Id: 176
+Resource ID 	 Requested	 Allocated
+0	13	10
+1	17	15
+2	20	11
+3	27	23
+4	9	8
+5	5	5
+6	12	12
+7	6	3
+8	8	8
+9	3	3
+
+Facility Id: 177
+Resource ID 	 Requested	 Allocated
+0	19	19
+1	25	14
+2	30	25
+3	39	39
+4	14	7
+5	8	8
+6	18	18
+7	9	6
+8	12	12
+9	5	5
+
+Facility Id: 178
+Resource ID 	 Requested	 Allocated
+0	4	2
+1	5	2
+2	5	4
+3	7	6
+4	3	1
+5	1	1
+6	3	3
+7	2	1
+8	2	2
+9	1	1
+
+Facility Id: 179
+Resource ID 	 Requested	 Allocated
+0	16	14
+1	20	16
+2	24	21
+3	32	27
+4	11	6
+5	6	6
+6	15	15
+7	7	6
+8	10	10
+9	4	4
+
+Facility Id: 180
+Resource ID 	 Requested	 Allocated
+0	7	4
+1	9	4
+2	11	3
+3	14	12
+4	5	5
+5	3	3
+6	6	6
+7	3	1
+8	4	4
+9	2	2
+
+Facility Id: 181
+Resource ID 	 Requested	 Allocated
+0	13	13
+1	17	9
+2	20	8
+3	27	13
+4	9	7
+5	5	5
+6	12	12
+7	6	4
+8	8	8
+9	3	3
+
+Facility Id: 182
+Resource ID 	 Requested	 Allocated
+0	15	10
+1	19	19
+2	23	18
+3	30	21
+4	11	10
+5	6	6
+6	14	14
+7	7	6
+8	9	9
+9	4	4
+
+Facility Id: 183
+Resource ID 	 Requested	 Allocated
+0	13	10
+1	18	14
+2	21	20
+3	28	28
+4	10	5
+5	5	5
+6	13	13
+7	6	1
+8	8	8
+9	3	3
+
+Facility Id: 184
+Resource ID 	 Requested	 Allocated
+0	20	18
+1	26	14
+2	31	27
+3	41	22
+4	14	13
+5	8	8
+6	19	19
+7	9	7
+8	13	13
+9	5	5
+
+Facility Id: 185
+Resource ID 	 Requested	 Allocated
+0	10	6
+1	13	6
+2	16	15
+3	21	8
+4	7	7
+5	4	4
+6	10	10
+7	5	2
+8	6	6
+9	3	3
+
+Facility Id: 186
+Resource ID 	 Requested	 Allocated
+0	21	18
+1	27	13
+2	32	31
+3	43	43
+4	15	15
+5	8	8
+6	19	19
+7	10	6
+8	13	13
+9	5	5
+
+Facility Id: 187
+Resource ID 	 Requested	 Allocated
+0	15	15
+1	19	11
+2	23	5
+3	30	12
+4	11	5
+5	6	6
+6	14	14
+7	7	4
+8	9	9
+9	4	4
+
+Facility Id: 188
+Resource ID 	 Requested	 Allocated
+0	11	9
+1	15	11
+2	17	17
+3	23	20
+4	8	8
+5	4	4
+6	11	11
+7	5	4
+8	7	7
+9	3	3
+
+Facility Id: 189
+Resource ID 	 Requested	 Allocated
+0	2	2
+1	3	1
+2	4	4
+3	5	5
+4	2	0
+5	1	1
+6	2	2
+7	1	1
+8	2	2
+9	1	1
+
+Facility Id: 190
+Resource ID 	 Requested	 Allocated
+0	22	21
+1	29	27
+2	34	23
+3	45	19
+4	16	14
+5	9	9
+6	21	21
+7	10	6
+8	14	14
+9	6	6
+
+Facility Id: 191
+Resource ID 	 Requested	 Allocated
+0	1	0
+1	1	1
+2	1	1
+3	2	2
+4	1	0
+5	0	0
+6	1	1
+7	0	0
+8	1	1
+9	0	0
+
+Facility Id: 192
+Resource ID 	 Requested	 Allocated
+0	13	6
+1	17	16
+2	20	13
+3	27	26
+4	10	6
+5	5	5
+6	12	12
+7	6	3
+8	8	8
+9	3	3
+
+Facility Id: 193
+Resource ID 	 Requested	 Allocated
+0	0	0
+1	1	1
+2	1	1
+3	1	0
+4	0	0
+5	0	0
+6	0	0
+7	0	0
+8	0	0
+9	0	0
+
+Facility Id: 194
+Resource ID 	 Requested	 Allocated
+0	2	1
+1	3	2
+2	3	2
+3	4	3
+4	1	1
+5	1	1
+6	2	2
+7	1	0
+8	1	1
+9	1	1
+
+Facility Id: 195
+Resource ID 	 Requested	 Allocated
+0	6	3
+1	8	7
+2	10	10
+3	13	12
+4	5	2
+5	3	3
+6	6	6
+7	3	3
+8	4	4
+9	2	2
+
+Facility Id: 196
+Resource ID 	 Requested	 Allocated
+0	0	0
+1	0	0
+2	0	0
+3	0	0
+4	0	0
+5	0	0
+6	0	0
+7	0	0
+8	0	0
+9	0	0
+
+Facility Id: 197
+Resource ID 	 Requested	 Allocated
+0	9	5
+1	12	12
+2	14	13
+3	19	18
+4	7	5
+5	4	4
+6	9	9
+7	4	4
+8	6	6
+9	2	2
+
+Facility Id: 198
+Resource ID 	 Requested	 Allocated
+0	21	10
+1	27	27
+2	32	32
+3	43	38
+4	15	13
+5	8	8
+6	19	19
+7	10	5
+8	13	13
+9	5	5
+
+Facility Id: 199
+Resource ID 	 Requested	 Allocated
+0	21	17
+1	28	27
+2	33	33
+3	44	31
+4	15	14
+5	8	8
+6	20	20
+7	10	10
+8	13	13
+9	5	5
+
+Facility Id: 200
+Resource ID 	 Requested	 Allocated
+0	15	8
+1	20	11
+2	23	3
+3	31	18
+4	11	7
+5	6	6
+6	14	14
+7	7	4
+8	9	9
+9	4	4
+
+Facility Id: 201
+Resource ID 	 Requested	 Allocated
+0	4	3
+1	5	2
+2	6	3
+3	8	6
+4	3	1
+5	1	1
+6	4	4
+7	2	2
+8	2	2
+9	1	1
+
+Facility Id: 202
+Resource ID 	 Requested	 Allocated
+0	15	13
+1	20	13
+2	24	24
+3	31	28
+4	11	10
+5	6	6
+6	14	14
+7	7	7
+8	10	10
+9	4	4
+
+Facility Id: 203
+Resource ID 	 Requested	 Allocated
+0	10	2
+1	14	9
+2	16	10
+3	21	1
+4	8	0
+5	4	4
+6	10	10
+7	5	4
+8	7	7
+9	3	3
+
+Facility Id: 204
+Resource ID 	 Requested	 Allocated
+0	5	4
+1	6	6
+2	7	4
+3	10	10
+4	3	3
+5	2	2
+6	4	4
+7	2	1
+8	3	3
+9	1	1
+
+Facility Id: 205
+Resource ID 	 Requested	 Allocated
+0	19	16
+1	24	17
+2	29	18
+3	38	35
+4	13	8
+5	7	7
+6	17	17
+7	9	8
+8	12	12
+9	5	5
+
+Facility Id: 206
+Resource ID 	 Requested	 Allocated
+0	1	1
+1	1	0
+2	2	0
+3	2	2
+4	1	0
+5	0	0
+6	1	1
+7	1	0
+8	1	1
+9	0	0
+
+Facility Id: 207
+Resource ID 	 Requested	 Allocated
+0	3	2
+1	4	2
+2	5	5
+3	6	5
+4	2	2
+5	1	1
+6	3	3
+7	1	0
+8	2	2
+9	1	1
+
+Facility Id: 208
+Resource ID 	 Requested	 Allocated
+0	10	6
+1	13	11
+2	15	9
+3	20	18
+4	7	4
+5	4	4
+6	9	9
+7	5	4
+8	6	6
+9	3	3
+
+Facility Id: 209
+Resource ID 	 Requested	 Allocated
+0	14	11
+1	18	12
+2	21	11
+3	29	21
+4	10	7
+5	6	6
+6	13	13
+7	7	6
+8	9	9
+9	4	4
+
+Facility Id: 210
+Resource ID 	 Requested	 Allocated
+0	19	9
+1	25	24
+2	29	25
+3	39	33
+4	14	13
+5	7	7
+6	18	18
+7	9	4
+8	12	12
+9	5	5
+
+Facility Id: 211
+Resource ID 	 Requested	 Allocated
+0	8	7
+1	10	10
+2	12	10
+3	15	15
+4	5	4
+5	3	3
+6	7	7
+7	4	2
+8	5	5
+9	2	2
+
+Facility Id: 212
+Resource ID 	 Requested	 Allocated
+0	6	5
+1	8	1
+2	9	5
+3	12	12
+4	4	0
+5	2	2
+6	6	6
+7	3	3
+8	4	4
+9	2	2
+
+Facility Id: 213
+Resource ID 	 Requested	 Allocated
+0	12	1
+1	15	11
+2	18	11
+3	24	5
+4	8	4
+5	5	5
+6	11	11
+7	5	3
+8	7	7
+9	3	3
+
+Facility Id: 214
+Resource ID 	 Requested	 Allocated
+0	18	16
+1	24	23
+2	28	25
+3	38	24
+4	13	12
+5	7	7
+6	17	17
+7	9	8
+8	12	12
+9	5	5
+
+Facility Id: 215
+Resource ID 	 Requested	 Allocated
+0	13	12
+1	18	12
+2	21	21
+3	28	28
+4	10	10
+5	5	5
+6	13	13
+7	6	6
+8	8	8
+9	3	3
+
+Facility Id: 216
+Resource ID 	 Requested	 Allocated
+0	20	8
+1	26	24
+2	31	23
+3	41	24
+4	14	7
+5	8	8
+6	19	19
+7	9	1
+8	13	13
+9	5	5
+
+Facility Id: 217
+Resource ID 	 Requested	 Allocated
+0	21	19
+1	27	27
+2	32	32
+3	42	42
+4	15	11
+5	8	8
+6	19	19
+7	10	9
+8	13	13
+9	5	5
+
+Facility Id: 218
+Resource ID 	 Requested	 Allocated
+0	10	0
+1	13	4
+2	15	15
+3	20	18
+4	7	5
+5	4	4
+6	9	9
+7	5	3
+8	6	6
+9	3	3
+
+Facility Id: 219
+Resource ID 	 Requested	 Allocated
+0	17	12
+1	23	22
+2	27	23
+3	36	32
+4	13	8
+5	7	7
+6	16	16
+7	8	7
+8	11	11
+9	5	5
+
+Facility Id: 220
+Resource ID 	 Requested	 Allocated
+0	12	11
+1	15	11
+2	18	15
+3	24	24
+4	8	5
+5	5	5
+6	11	11
+7	6	6
+8	7	7
+9	3	3
+
+Facility Id: 221
+Resource ID 	 Requested	 Allocated
+0	4	1
+1	5	1
+2	6	0
+3	9	2
+4	3	1
+5	2	2
+6	4	4
+7	2	2
+8	3	3
+9	1	1
+
+Facility Id: 222
+Resource ID 	 Requested	 Allocated
+0	21	21
+1	28	28
+2	33	23
+3	44	27
+4	15	13
+5	8	8
+6	20	20
+7	10	10
+8	13	13
+9	5	5
+
+Facility Id: 223
+Resource ID 	 Requested	 Allocated
+0	11	0
+1	14	7
+2	17	12
+3	22	13
+4	8	8
+5	4	4
+6	10	10
+7	5	0
+8	7	7
+9	3	3
+
+Facility Id: 224
+Resource ID 	 Requested	 Allocated
+0	2	1
+1	2	2
+2	2	2
+3	3	2
+4	1	1
+5	1	1
+6	1	1
+7	1	1
+8	1	1
+9	0	0
+
+Facility Id: 225
+Resource ID 	 Requested	 Allocated
+0	16	15
+1	20	12
+2	24	18
+3	32	24
+4	11	5
+5	6	6
+6	15	15
+7	7	5
+8	10	10
+9	4	4
+
+Facility Id: 226
+Resource ID 	 Requested	 Allocated
+0	15	15
+1	19	14
+2	23	21
+3	30	19
+4	11	6
+5	6	6
+6	14	14
+7	7	4
+8	9	9
+9	4	4
+
+Facility Id: 227
+Resource ID 	 Requested	 Allocated
+0	0	0
+1	0	0
+2	0	0
+3	0	0
+4	0	0
+5	0	0
+6	0	0
+7	0	0
+8	0	0
+9	0	0
+
+Facility Id: 228
+Resource ID 	 Requested	 Allocated
+0	9	6
+1	12	7
+2	14	9
+3	18	10
+4	6	6
+5	4	4
+6	8	8
+7	4	4
+8	6	6
+9	2	2
+
+Facility Id: 229
+Resource ID 	 Requested	 Allocated
+0	16	16
+1	21	19
+2	25	24
+3	33	20
+4	12	6
+5	6	6
+6	15	15
+7	8	7
+8	10	10
+9	4	4
+
+Facility Id: 230
+Resource ID 	 Requested	 Allocated
+0	1	0
+1	2	2
+2	2	1
+3	3	3
+4	1	1
+5	1	1
+6	1	1
+7	1	1
+8	1	1
+9	0	0
+
+Facility Id: 231
+Resource ID 	 Requested	 Allocated
+0	21	17
+1	27	27
+2	32	19
+3	43	31
+4	15	9
+5	8	8
+6	20	20
+7	10	10
+8	13	13
+9	5	5
+
+Facility Id: 232
+Resource ID 	 Requested	 Allocated
+0	2	1
+1	2	2
+2	3	1
+3	4	4
+4	1	1
+5	1	1
+6	2	2
+7	1	1
+8	1	1
+9	0	0
+
+Facility Id: 233
+Resource ID 	 Requested	 Allocated
+0	6	4
+1	7	5
+2	9	6
+3	11	7
+4	4	4
+5	2	2
+6	5	5
+7	3	3
+8	3	3
+9	1	1
+
+Facility Id: 234
+Resource ID 	 Requested	 Allocated
+0	10	10
+1	13	12
+2	15	15
+3	20	20
+4	7	3
+5	4	4
+6	9	9
+7	5	4
+8	6	6
+9	3	3
+
+Facility Id: 235
+Resource ID 	 Requested	 Allocated
+0	6	2
+1	7	0
+2	9	5
+3	11	9
+4	4	4
+5	2	2
+6	5	5
+7	3	2
+8	3	3
+9	1	1
+
+Facility Id: 236
+Resource ID 	 Requested	 Allocated
+0	10	8
+1	13	10
+2	15	11
+3	20	17
+4	7	7
+5	4	4
+6	9	9
+7	5	4
+8	6	6
+9	3	3
+
+Facility Id: 237
+Resource ID 	 Requested	 Allocated
+0	1	0
+1	1	0
+2	1	0
+3	1	0
+4	0	0
+5	0	0
+6	1	1
+7	0	0
+8	0	0
+9	0	0
+
+Facility Id: 238
+Resource ID 	 Requested	 Allocated
+0	17	14
+1	22	11
+2	27	22
+3	35	25
+4	12	8
+5	7	7
+6	16	16
+7	8	6
+8	11	11
+9	4	4
+
+Facility Id: 239
+Resource ID 	 Requested	 Allocated
+0	11	6
+1	15	12
+2	17	11
+3	23	23
+4	8	8
+5	4	4
+6	11	11
+7	5	5
+8	7	7
+9	3	3
+
+Facility Id: 240
+Resource ID 	 Requested	 Allocated
+0	4	2
+1	5	5
+2	5	0
+3	7	7
+4	3	1
+5	1	1
+6	3	3
+7	2	0
+8	2	2
+9	1	1
+
+Facility Id: 241
+Resource ID 	 Requested	 Allocated
+0	2	0
+1	2	2
+2	2	0
+3	3	1
+4	1	0
+5	1	1
+6	1	1
+7	1	1
+8	1	1
+9	0	0
+
+Facility Id: 242
+Resource ID 	 Requested	 Allocated
+0	16	12
+1	21	17
+2	25	13
+3	33	23
+4	12	9
+5	6	6
+6	15	15
+7	8	5
+8	10	10
+9	4	4
+
+Facility Id: 243
+Resource ID 	 Requested	 Allocated
+0	2	1
+1	2	2
+2	2	2
+3	3	2
+4	1	0
+5	1	1
+6	1	1
+7	1	1
+8	1	1
+9	0	0
+
+Facility Id: 244
+Resource ID 	 Requested	 Allocated
+0	21	21
+1	28	15
+2	33	28
+3	44	43
+4	15	12
+5	8	8
+6	20	20
+7	10	9
+8	13	13
+9	5	5
+
+Facility Id: 245
+Resource ID 	 Requested	 Allocated
+0	13	12
+1	17	11
+2	20	19
+3	27	27
+4	9	4
+5	5	5
+6	12	12
+7	6	4
+8	8	8
+9	3	3
+
+Facility Id: 246
+Resource ID 	 Requested	 Allocated
+0	10	9
+1	13	4
+2	15	15
+3	20	1
+4	7	5
+5	4	4
+6	9	9
+7	5	2
+8	6	6
+9	3	3
+
+Facility Id: 247
+Resource ID 	 Requested	 Allocated
+0	3	3
+1	3	3
+2	4	4
+3	5	3
+4	2	2
+5	1	1
+6	2	2
+7	1	0
+8	2	2
+9	1	1
+
+Facility Id: 248
+Resource ID 	 Requested	 Allocated
+0	2	2
+1	2	1
+2	2	1
+3	3	2
+4	1	0
+5	1	1
+6	1	1
+7	1	0
+8	1	1
+9	0	0
+
+Facility Id: 249
+Resource ID 	 Requested	 Allocated
+0	17	13
+1	22	21
+2	27	19
+3	35	35
+4	12	7
+5	7	7
+6	16	16
+7	8	8
+8	11	11
+9	4	4
+
+Facility Id: 250
+Resource ID 	 Requested	 Allocated
+0	17	17
+1	22	21
+2	26	24
+3	34	34
+4	12	9
+5	7	7
+6	16	16
+7	8	8
+8	10	10
+9	4	4
+
+Facility Id: 251
+Resource ID 	 Requested	 Allocated
+0	9	4
+1	12	6
+2	14	10
+3	19	1
+4	7	2
+5	4	4
+6	9	9
+7	4	2
+8	6	6
+9	2	2
+
+Facility Id: 252
+Resource ID 	 Requested	 Allocated
+0	6	5
+1	8	7
+2	9	7
+3	12	9
+4	4	4
+5	2	2
+6	6	6
+7	3	3
+8	4	4
+9	2	2
+
+Facility Id: 253
+Resource ID 	 Requested	 Allocated
+0	16	8
+1	21	11
+2	25	19
+3	33	30
+4	12	5
+5	6	6
+6	15	15
+7	8	2
+8	10	10
+9	4	4
+
+Facility Id: 254
+Resource ID 	 Requested	 Allocated
+0	20	19
+1	26	16
+2	31	25
+3	41	38
+4	14	10
+5	8	8
+6	19	19
+7	9	9
+8	13	13
+9	5	5
+
+Facility Id: 255
+Resource ID 	 Requested	 Allocated
+0	10	9
+1	12	6
+2	15	0
+3	19	6
+4	7	3
+5	4	4
+6	9	9
+7	5	3
+8	6	6
+9	2	2
+
+Facility Id: 256
+Resource ID 	 Requested	 Allocated
+0	21	12
+1	27	23
+2	32	32
+3	42	22
+4	15	7
+5	8	8
+6	19	19
+7	10	9
+8	13	13
+9	5	5
+
+Facility Id: 257
+Resource ID 	 Requested	 Allocated
+0	4	2
+1	5	4
+2	5	3
+3	7	4
+4	3	2
+5	1	1
+6	3	3
+7	2	1
+8	2	2
+9	1	1
+
+Facility Id: 258
+Resource ID 	 Requested	 Allocated
+0	13	10
+1	17	16
+2	20	20
+3	26	26
+4	9	9
+5	5	5
+6	12	12
+7	6	5
+8	8	8
+9	3	3
+
+Facility Id: 259
+Resource ID 	 Requested	 Allocated
+0	15	14
+1	20	8
+2	24	14
+3	32	12
+4	11	11
+5	6	6
+6	14	14
+7	7	3
+8	10	10
+9	4	4
+
+Facility Id: 260
+Resource ID 	 Requested	 Allocated
+0	11	8
+1	14	14
+2	16	8
+3	22	19
+4	8	5
+5	4	4
+6	10	10
+7	5	4
+8	7	7
+9	3	3
+
+Facility Id: 261
+Resource ID 	 Requested	 Allocated
+0	16	14
+1	21	17
+2	25	24
+3	33	32
+4	12	11
+5	6	6
+6	15	15
+7	8	7
+8	10	10
+9	4	4
+
+Facility Id: 262
+Resource ID 	 Requested	 Allocated
+0	12	12
+1	16	14
+2	19	16
+3	25	23
+4	9	1
+5	5	5
+6	12	12
+7	6	1
+8	8	8
+9	3	3
+
+Facility Id: 263
+Resource ID 	 Requested	 Allocated
+0	20	15
+1	26	13
+2	31	16
+3	41	20
+4	15	15
+5	8	8
+6	19	19
+7	10	7
+8	13	13
+9	5	5
+
+Facility Id: 264
+Resource ID 	 Requested	 Allocated
+0	1	0
+1	1	0
+2	1	0
+3	2	1
+4	1	0
+5	0	0
+6	1	1
+7	0	0
+8	1	1
+9	0	0
+
+Facility Id: 265
+Resource ID 	 Requested	 Allocated
+0	0	0
+1	0	0
+2	0	0
+3	0	0
+4	0	0
+5	0	0
+6	0	0
+7	0	0
+8	0	0
+9	0	0
+
+Facility Id: 266
+Resource ID 	 Requested	 Allocated
+0	15	8
+1	20	18
+2	24	21
+3	31	27
+4	11	7
+5	6	6
+6	14	14
+7	7	3
+8	10	10
+9	4	4
+
+Facility Id: 267
+Resource ID 	 Requested	 Allocated
+0	16	14
+1	21	11
+2	25	23
+3	34	18
+4	12	11
+5	6	6
+6	15	15
+7	8	7
+8	10	10
+9	4	4
+
+Facility Id: 268
+Resource ID 	 Requested	 Allocated
+0	10	9
+1	13	10
+2	15	8
+3	20	10
+4	7	7
+5	4	4
+6	9	9
+7	5	4
+8	6	6
+9	3	3
+
+Facility Id: 269
+Resource ID 	 Requested	 Allocated
+0	16	12
+1	21	21
+2	25	23
+3	33	33
+4	12	11
+5	6	6
+6	15	15
+7	8	6
+8	10	10
+9	4	4
+
+Facility Id: 270
+Resource ID 	 Requested	 Allocated
+0	10	8
+1	13	10
+2	15	5
+3	20	5
+4	7	3
+5	4	4
+6	9	9
+7	5	5
+8	6	6
+9	3	3
+
+Facility Id: 271
+Resource ID 	 Requested	 Allocated
+0	5	4
+1	6	1
+2	7	0
+3	10	7
+4	3	1
+5	2	2
+6	4	4
+7	2	1
+8	3	3
+9	1	1
+
+Facility Id: 272
+Resource ID 	 Requested	 Allocated
+0	10	6
+1	13	12
+2	15	12
+3	20	17
+4	7	4
+5	4	4
+6	9	9
+7	5	3
+8	6	6
+9	3	3
+
+Facility Id: 273
+Resource ID 	 Requested	 Allocated
+0	8	5
+1	11	6
+2	13	8
+3	17	14
+4	6	6
+5	3	3
+6	8	8
+7	4	3
+8	5	5
+9	2	2
+
+Facility Id: 274
+Resource ID 	 Requested	 Allocated
+0	16	15
+1	20	18
+2	24	24
+3	32	18
+4	11	7
+5	6	6
+6	15	15
+7	7	5
+8	10	10
+9	4	4
+
+Facility Id: 275
+Resource ID 	 Requested	 Allocated
+0	14	6
+1	19	18
+2	22	10
+3	29	25
+4	10	6
+5	6	6
+6	13	13
+7	7	4
+8	9	9
+9	4	4
+
+Facility Id: 276
+Resource ID 	 Requested	 Allocated
+0	10	7
+1	13	9
+2	15	13
+3	20	18
+4	7	5
+5	4	4
+6	9	9
+7	5	5
+8	6	6
+9	3	3
+
+Facility Id: 277
+Resource ID 	 Requested	 Allocated
+0	21	21
+1	28	25
+2	33	29
+3	44	27
+4	16	8
+5	8	8
+6	20	20
+7	10	5
+8	14	14
+9	6	6
+
+Facility Id: 278
+Resource ID 	 Requested	 Allocated
+0	9	8
+1	12	10
+2	14	12
+3	18	11
+4	6	4
+5	4	4
+6	8	8
+7	4	4
+8	6	6
+9	2	2
+
+Facility Id: 279
+Resource ID 	 Requested	 Allocated
+0	12	8
+1	16	16
+2	19	19
+3	25	24
+4	9	5
+5	5	5
+6	11	11
+7	6	5
+8	8	8
+9	3	3
+
+Facility Id: 280
+Resource ID 	 Requested	 Allocated
+0	4	3
+1	5	4
+2	6	4
+3	8	3
+4	3	3
+5	1	1
+6	4	4
+7	2	2
+8	2	2
+9	1	1
+
+Facility Id: 281
+Resource ID 	 Requested	 Allocated
+0	8	3
+1	10	6
+2	12	11
+3	15	10
+4	5	3
+5	3	3
+6	7	7
+7	4	2
+8	5	5
+9	2	2
+
+Facility Id: 282
+Resource ID 	 Requested	 Allocated
+0	8	8
+1	10	5
+2	12	7
+3	15	8
+4	5	2
+5	3	3
+6	7	7
+7	4	3
+8	5	5
+9	2	2
+
+Facility Id: 283
+Resource ID 	 Requested	 Allocated
+0	20	15
+1	26	26
+2	31	30
+3	41	38
+4	14	9
+5	8	8
+6	19	19
+7	9	6
+8	13	13
+9	5	5
+
+Facility Id: 284
+Resource ID 	 Requested	 Allocated
+0	8	0
+1	10	6
+2	12	0
+3	16	2
+4	6	2
+5	3	3
+6	7	7
+7	4	2
+8	5	5
+9	2	2
+
+Facility Id: 285
+Resource ID 	 Requested	 Allocated
+0	17	16
+1	22	11
+2	27	20
+3	35	35
+4	12	10
+5	7	7
+6	16	16
+7	8	5
+8	11	11
+9	4	4
+
+Facility Id: 286
+Resource ID 	 Requested	 Allocated
+0	8	6
+1	10	10
+2	12	9
+3	16	11
+4	6	3
+5	3	3
+6	7	7
+7	4	3
+8	5	5
+9	2	2
+
+Facility Id: 287
+Resource ID 	 Requested	 Allocated
+0	3	3
+1	4	4
+2	5	4
+3	6	6
+4	2	2
+5	1	1
+6	3	3
+7	1	1
+8	2	2
+9	1	1
+
+Facility Id: 288
+Resource ID 	 Requested	 Allocated
+0	3	1
+1	4	4
+2	5	5
+3	7	7
+4	2	2
+5	1	1
+6	3	3
+7	2	2
+8	2	2
+9	1	1
+
+Facility Id: 289
+Resource ID 	 Requested	 Allocated
+0	15	15
+1	20	12
+2	24	7
+3	32	13
+4	11	4
+5	6	6
+6	14	14
+7	7	1
+8	10	10
+9	4	4
+
+Facility Id: 290
+Resource ID 	 Requested	 Allocated
+0	19	17
+1	25	13
+2	29	19
+3	39	33
+4	14	10
+5	7	7
+6	18	18
+7	9	4
+8	12	12
+9	5	5
+
+Facility Id: 291
+Resource ID 	 Requested	 Allocated
+0	4	2
+1	5	3
+2	5	4
+3	7	3
+4	3	2
+5	1	1
+6	3	3
+7	2	2
+8	2	2
+9	1	1
+
+Facility Id: 292
+Resource ID 	 Requested	 Allocated
+0	6	5
+1	8	8
+2	9	8
+3	12	11
+4	4	3
+5	2	2
+6	6	6
+7	3	3
+8	4	4
+9	2	2
+
+Facility Id: 293
+Resource ID 	 Requested	 Allocated
+0	7	6
+1	9	7
+2	11	10
+3	14	14
+4	5	4
+5	3	3
+6	6	6
+7	3	2
+8	4	4
+9	2	2
+
+Facility Id: 294
+Resource ID 	 Requested	 Allocated
+0	4	3
+1	5	0
+2	6	1
+3	9	5
+4	3	2
+5	2	2
+6	4	4
+7	2	1
+8	3	3
+9	1	1
+
+Facility Id: 295
+Resource ID 	 Requested	 Allocated
+0	11	9
+1	14	14
+2	17	16
+3	22	18
+4	8	5
+5	4	4
+6	10	10
+7	5	1
+8	7	7
+9	3	3
+
+Facility Id: 296
+Resource ID 	 Requested	 Allocated
+0	19	16
+1	25	15
+2	29	26
+3	39	33
+4	14	12
+5	8	8
+6	18	18
+7	9	4
+8	12	12
+9	5	5
+
+Facility Id: 297
+Resource ID 	 Requested	 Allocated
+0	11	10
+1	14	11
+2	17	17
+3	22	20
+4	8	8
+5	4	4
+6	10	10
+7	5	2
+8	7	7
+9	3	3
+
+Facility Id: 298
+Resource ID 	 Requested	 Allocated
+0	13	8
+1	17	17
+2	20	14
+3	26	16
+4	9	3
+5	5	5
+6	12	12
+7	6	6
+8	8	8
+9	3	3
+
+Facility Id: 299
+Resource ID 	 Requested	 Allocated
+0	7	6
+1	10	10
+2	11	4
+3	15	10
+4	5	1
+5	3	3
+6	7	7
+7	3	1
+8	5	5
+9	2	2
+
+Facility Id: 300
+Resource ID 	 Requested	 Allocated
+0	8	8
+1	11	3
+2	13	11
+3	17	11
+4	6	4
+5	3	3
+6	8	8
+7	4	3
+8	5	5
+9	2	2
+
+Facility Id: 301
+Resource ID 	 Requested	 Allocated
+0	11	10
+1	14	14
+2	16	14
+3	22	16
+4	8	7
+5	4	4
+6	10	10
+7	5	5
+8	7	7
+9	3	3
+
+Facility Id: 302
+Resource ID 	 Requested	 Allocated
+0	12	10
+1	15	9
+2	18	12
+3	24	14
+4	8	4
+5	5	5
+6	11	11
+7	5	5
+8	7	7
+9	3	3
+
+Facility Id: 303
+Resource ID 	 Requested	 Allocated
+0	16	9
+1	21	18
+2	25	22
+3	33	21
+4	12	5
+5	6	6
+6	15	15
+7	8	6
+8	10	10
+9	4	4
+
+Facility Id: 304
+Resource ID 	 Requested	 Allocated
+0	19	9
+1	25	25
+2	29	25
+3	39	31
+4	14	13
+5	7	7
+6	18	18
+7	9	6
+8	12	12
+9	5	5
+
+Facility Id: 305
+Resource ID 	 Requested	 Allocated
+0	10	6
+1	13	10
+2	15	14
+3	20	14
+4	7	4
+5	4	4
+6	9	9
+7	5	2
+8	6	6
+9	3	3
+
+Facility Id: 306
+Resource ID 	 Requested	 Allocated
+0	1	0
+1	1	0
+2	2	0
+3	2	2
+4	1	0
+5	0	0
+6	1	1
+7	1	1
+8	1	1
+9	0	0
+
+Facility Id: 307
+Resource ID 	 Requested	 Allocated
+0	1	1
+1	1	1
+2	1	1
+3	1	1
+4	0	0
+5	0	0
+6	1	1
+7	0	0
+8	0	0
+9	0	0
+
+Facility Id: 308
+Resource ID 	 Requested	 Allocated
+0	11	5
+1	14	11
+2	16	11
+3	22	11
+4	8	6
+5	4	4
+6	10	10
+7	5	5
+8	7	7
+9	3	3
+
+Facility Id: 309
+Resource ID 	 Requested	 Allocated
+0	19	11
+1	25	16
+2	29	24
+3	39	31
+4	14	9
+5	8	8
+6	18	18
+7	9	8
+8	12	12
+9	5	5
+
+Facility Id: 310
+Resource ID 	 Requested	 Allocated
+0	19	11
+1	24	13
+2	29	27
+3	38	30
+4	13	13
+5	7	7
+6	17	17
+7	9	9
+8	12	12
+9	5	5
+
+Facility Id: 311
+Resource ID 	 Requested	 Allocated
+0	14	10
+1	18	16
+2	21	0
+3	29	22
+4	10	7
+5	6	6
+6	13	13
+7	7	4
+8	9	9
+9	4	4
+
+Facility Id: 312
+Resource ID 	 Requested	 Allocated
+0	6	6
+1	7	6
+2	9	9
+3	11	9
+4	4	3
+5	2	2
+6	5	5
+7	3	3
+8	3	3
+9	1	1
+
+Facility Id: 313
+Resource ID 	 Requested	 Allocated
+0	1	1
+1	1	1
+2	1	0
+3	1	1
+4	0	0
+5	0	0
+6	1	1
+7	0	0
+8	0	0
+9	0	0
+
+Facility Id: 314
+Resource ID 	 Requested	 Allocated
+0	5	5
+1	6	6
+2	8	6
+3	10	6
+4	4	4
+5	2	2
+6	5	5
+7	2	2
+8	3	3
+9	1	1
+
+Facility Id: 315
+Resource ID 	 Requested	 Allocated
+0	17	14
+1	22	22
+2	26	26
+3	34	34
+4	12	6
+5	7	7
+6	16	16
+7	8	5
+8	10	10
+9	4	4
+
+Facility Id: 316
+Resource ID 	 Requested	 Allocated
+0	20	20
+1	26	9
+2	31	2
+3	41	16
+4	14	10
+5	8	8
+6	19	19
+7	9	9
+8	13	13
+9	5	5
+
+Facility Id: 317
+Resource ID 	 Requested	 Allocated
+0	4	3
+1	5	4
+2	6	3
+3	8	8
+4	3	3
+5	1	1
+6	4	4
+7	2	2
+8	2	2
+9	1	1
+
+Facility Id: 318
+Resource ID 	 Requested	 Allocated
+0	16	8
+1	20	8
+2	24	21
+3	32	17
+4	11	5
+5	6	6
+6	15	15
+7	7	4
+8	10	10
+9	4	4
+
+Facility Id: 319
+Resource ID 	 Requested	 Allocated
+0	21	12
+1	27	27
+2	32	21
+3	43	43
+4	15	14
+5	8	8
+6	19	19
+7	10	10
+8	13	13
+9	5	5
+
+Facility Id: 320
+Resource ID 	 Requested	 Allocated
+0	20	11
+1	26	17
+2	31	21
+3	41	24
+4	14	14
+5	8	8
+6	19	19
+7	9	4
+8	13	13
+9	5	5
+
+Facility Id: 321
+Resource ID 	 Requested	 Allocated
+0	18	12
+1	24	24
+2	28	21
+3	37	37
+4	13	9
+5	7	7
+6	17	17
+7	9	5
+8	11	11
+9	5	5
+
+Facility Id: 322
+Resource ID 	 Requested	 Allocated
+0	5	2
+1	6	2
+2	7	2
+3	10	1
+4	3	2
+5	2	2
+6	4	4
+7	2	0
+8	3	3
+9	1	1
+
+Facility Id: 323
+Resource ID 	 Requested	 Allocated
+0	4	4
+1	6	3
+2	7	7
+3	9	9
+4	3	2
+5	2	2
+6	4	4
+7	2	2
+8	3	3
+9	1	1
+
+Facility Id: 324
+Resource ID 	 Requested	 Allocated
+0	16	14
+1	20	20
+2	24	19
+3	32	20
+4	11	7
+5	6	6
+6	15	15
+7	7	3
+8	10	10
+9	4	4
+
+Facility Id: 325
+Resource ID 	 Requested	 Allocated
+0	16	16
+1	21	14
+2	25	18
+3	33	33
+4	12	12
+5	6	6
+6	15	15
+7	8	8
+8	10	10
+9	4	4
+
+Facility Id: 326
+Resource ID 	 Requested	 Allocated
+0	19	9
+1	25	15
+2	29	23
+3	39	24
+4	14	12
+5	8	8
+6	18	18
+7	9	4
+8	12	12
+9	5	5
+
+Facility Id: 327
+Resource ID 	 Requested	 Allocated
+0	4	4
+1	5	3
+2	6	6
+3	9	7
+4	3	2
+5	2	2
+6	4	4
+7	2	2
+8	3	3
+9	1	1
+
+Facility Id: 328
+Resource ID 	 Requested	 Allocated
+0	10	9
+1	13	8
+2	16	11
+3	21	15
+4	7	5
+5	4	4
+6	10	10
+7	5	4
+8	6	6
+9	3	3
+
+Facility Id: 329
+Resource ID 	 Requested	 Allocated
+0	20	15
+1	26	13
+2	30	24
+3	40	32
+4	14	13
+5	8	8
+6	18	18
+7	9	7
+8	12	12
+9	5	5
+
+Facility Id: 330
+Resource ID 	 Requested	 Allocated
+0	8	3
+1	10	7
+2	12	4
+3	15	4
+4	5	2
+5	3	3
+6	7	7
+7	4	2
+8	5	5
+9	2	2
+
+Facility Id: 331
+Resource ID 	 Requested	 Allocated
+0	11	11
+1	15	15
+2	17	13
+3	23	22
+4	8	8
+5	4	4
+6	11	11
+7	5	5
+8	7	7
+9	3	3
+
+Facility Id: 332
+Resource ID 	 Requested	 Allocated
+0	21	6
+1	28	28
+2	33	22
+3	44	22
+4	15	6
+5	8	8
+6	20	20
+7	10	7
+8	13	13
+9	5	5
+
+Facility Id: 333
+Resource ID 	 Requested	 Allocated
+0	17	12
+1	23	19
+2	27	24
+3	36	30
+4	13	6
+5	7	7
+6	16	16
+7	8	8
+8	11	11
+9	5	5
+
+Facility Id: 334
+Resource ID 	 Requested	 Allocated
+0	22	14
+1	29	14
+2	34	17
+3	45	38
+4	16	8
+5	9	9
+6	21	21
+7	10	6
+8	14	14
+9	6	6
+
+Facility Id: 335
+Resource ID 	 Requested	 Allocated
+0	13	12
+1	18	16
+2	21	15
+3	28	23
+4	10	10
+5	5	5
+6	13	13
+7	6	3
+8	8	8
+9	3	3
+
+Facility Id: 336
+Resource ID 	 Requested	 Allocated
+0	10	9
+1	14	13
+2	16	14
+3	21	20
+4	8	7
+5	4	4
+6	10	10
+7	5	5
+8	7	7
+9	3	3
+
+Facility Id: 337
+Resource ID 	 Requested	 Allocated
+0	4	3
+1	5	4
+2	6	4
+3	8	5
+4	3	3
+5	1	1
+6	4	4
+7	2	1
+8	2	2
+9	1	1
+
+Facility Id: 338
+Resource ID 	 Requested	 Allocated
+0	12	8
+1	16	10
+2	18	14
+3	24	18
+4	9	4
+5	5	5
+6	11	11
+7	6	3
+8	8	8
+9	3	3
+
+Facility Id: 339
+Resource ID 	 Requested	 Allocated
+0	9	6
+1	12	7
+2	14	14
+3	18	18
+4	6	6
+5	4	4
+6	8	8
+7	4	4
+8	6	6
+9	2	2
+
+Facility Id: 340
+Resource ID 	 Requested	 Allocated
+0	2	0
+1	3	0
+2	3	0
+3	5	2
+4	2	1
+5	1	1
+6	2	2
+7	1	1
+8	1	1
+9	1	1
+
+Facility Id: 341
+Resource ID 	 Requested	 Allocated
+0	17	11
+1	22	22
+2	26	23
+3	34	28
+4	12	12
+5	7	7
+6	16	16
+7	8	8
+8	10	10
+9	4	4
+
+Facility Id: 342
+Resource ID 	 Requested	 Allocated
+0	21	17
+1	27	9
+2	32	15
+3	42	18
+4	15	8
+5	8	8
+6	19	19
+7	10	8
+8	13	13
+9	5	5
+
+Facility Id: 343
+Resource ID 	 Requested	 Allocated
+0	2	2
+1	3	3
+2	4	2
+3	5	3
+4	2	2
+5	1	1
+6	2	2
+7	1	1
+8	2	2
+9	1	1
+
+Facility Id: 344
+Resource ID 	 Requested	 Allocated
+0	2	1
+1	2	2
+2	3	3
+3	4	4
+4	1	1
+5	1	1
+6	2	2
+7	1	1
+8	1	1
+9	0	0
+
+Facility Id: 345
+Resource ID 	 Requested	 Allocated
+0	12	10
+1	16	9
+2	18	9
+3	24	13
+4	9	7
+5	5	5
+6	11	11
+7	6	6
+8	8	8
+9	3	3
+
+Facility Id: 346
+Resource ID 	 Requested	 Allocated
+0	10	5
+1	13	8
+2	16	12
+3	21	12
+4	7	5
+5	4	4
+6	10	10
+7	5	2
+8	6	6
+9	3	3
+
+Facility Id: 347
+Resource ID 	 Requested	 Allocated
+0	3	3
+1	4	2
+2	4	4
+3	6	6
+4	2	2
+5	1	1
+6	3	3
+7	1	1
+8	2	2
+9	1	1
+
+Facility Id: 348
+Resource ID 	 Requested	 Allocated
+0	17	8
+1	22	21
+2	26	21
+3	34	21
+4	12	9
+5	7	7
+6	16	16
+7	8	4
+8	10	10
+9	4	4
+
+Facility Id: 349
+Resource ID 	 Requested	 Allocated
+0	17	13
+1	22	18
+2	26	25
+3	35	21
+4	12	8
+5	7	7
+6	16	16
+7	8	8
+8	11	11
+9	4	4
+
+Facility Id: 350
+Resource ID 	 Requested	 Allocated
+0	5	0
+1	6	5
+2	7	0
+3	10	9
+4	3	1
+5	2	2
+6	4	4
+7	2	1
+8	3	3
+9	1	1
+
+Facility Id: 351
+Resource ID 	 Requested	 Allocated
+0	2	2
+1	3	3
+2	4	3
+3	5	2
+4	2	1
+5	1	1
+6	2	2
+7	1	0
+8	2	2
+9	1	1
+
+Facility Id: 352
+Resource ID 	 Requested	 Allocated
+0	15	10
+1	19	11
+2	23	19
+3	30	30
+4	11	10
+5	6	6
+6	14	14
+7	7	7
+8	9	9
+9	4	4
+
+Facility Id: 353
+Resource ID 	 Requested	 Allocated
+0	17	17
+1	22	20
+2	27	26
+3	35	35
+4	12	12
+5	7	7
+6	16	16
+7	8	8
+8	11	11
+9	4	4
+
+Facility Id: 354
+Resource ID 	 Requested	 Allocated
+0	14	5
+1	19	12
+2	22	18
+3	29	18
+4	10	3
+5	6	6
+6	13	13
+7	7	1
+8	9	9
+9	4	4
+
+Facility Id: 355
+Resource ID 	 Requested	 Allocated
+0	14	7
+1	19	15
+2	22	16
+3	29	14
+4	10	10
+5	6	6
+6	13	13
+7	7	5
+8	9	9
+9	4	4
+
+Facility Id: 356
+Resource ID 	 Requested	 Allocated
+0	14	7
+1	19	15
+2	22	21
+3	29	28
+4	10	8
+5	6	6
+6	13	13
+7	7	7
+8	9	9
+9	4	4
+
+Facility Id: 357
+Resource ID 	 Requested	 Allocated
+0	12	7
+1	16	11
+2	19	16
+3	25	23
+4	9	4
+5	5	5
+6	12	12
+7	6	0
+8	8	8
+9	3	3
+
+Facility Id: 358
+Resource ID 	 Requested	 Allocated
+0	0	0
+1	0	0
+2	0	0
+3	0	0
+4	0	0
+5	0	0
+6	0	0
+7	0	0
+8	0	0
+9	0	0
+
+Facility Id: 359
+Resource ID 	 Requested	 Allocated
+0	19	17
+1	25	12
+2	30	22
+3	39	36
+4	14	9
+5	8	8
+6	18	18
+7	9	6
+8	12	12
+9	5	5
+
+Facility Id: 360
+Resource ID 	 Requested	 Allocated
+0	3	0
+1	4	4
+2	5	0
+3	7	4
+4	2	1
+5	1	1
+6	3	3
+7	2	1
+8	2	2
+9	1	1
+
+Facility Id: 361
+Resource ID 	 Requested	 Allocated
+0	19	13
+1	25	20
+2	29	25
+3	39	33
+4	14	12
+5	8	8
+6	18	18
+7	9	8
+8	12	12
+9	5	5
+
+Facility Id: 362
+Resource ID 	 Requested	 Allocated
+0	2	2
+1	3	3
+2	3	1
+3	5	3
+4	2	2
+5	1	1
+6	2	2
+7	1	1
+8	1	1
+9	1	1
+
+Facility Id: 363
+Resource ID 	 Requested	 Allocated
+0	14	11
+1	18	18
+2	22	22
+3	29	29
+4	10	10
+5	6	6
+6	13	13
+7	7	6
+8	9	9
+9	4	4
+
+Facility Id: 364
+Resource ID 	 Requested	 Allocated
+0	12	6
+1	15	7
+2	18	15
+3	24	21
+4	8	6
+5	5	5
+6	11	11
+7	6	5
+8	7	7
+9	3	3
+
+Facility Id: 365
+Resource ID 	 Requested	 Allocated
+0	15	15
+1	19	15
+2	23	13
+3	30	26
+4	11	8
+5	6	6
+6	14	14
+7	7	7
+8	9	9
+9	4	4
+
+Facility Id: 366
+Resource ID 	 Requested	 Allocated
+0	2	1
+1	3	2
+2	3	2
+3	4	0
+4	1	1
+5	1	1
+6	2	2
+7	1	0
+8	1	1
+9	1	1
+
+Facility Id: 367
+Resource ID 	 Requested	 Allocated
+0	8	5
+1	11	7
+2	13	7
+3	17	16
+4	6	6
+5	3	3
+6	8	8
+7	4	3
+8	5	5
+9	2	2
+
+Facility Id: 368
+Resource ID 	 Requested	 Allocated
+0	9	9
+1	12	11
+2	14	8
+3	19	16
+4	7	6
+5	4	4
+6	8	8
+7	4	4
+8	6	6
+9	2	2
+
+Facility Id: 369
+Resource ID 	 Requested	 Allocated
+0	10	3
+1	13	7
+2	15	15
+3	20	9
+4	7	5
+5	4	4
+6	9	9
+7	5	5
+8	6	6
+9	3	3
+
+Facility Id: 370
+Resource ID 	 Requested	 Allocated
+0	8	5
+1	11	9
+2	13	7
+3	17	8
+4	6	0
+5	3	3
+6	8	8
+7	4	3
+8	5	5
+9	2	2
+
+Facility Id: 371
+Resource ID 	 Requested	 Allocated
+0	10	8
+1	14	14
+2	16	16
+3	21	16
+4	8	4
+5	4	4
+6	10	10
+7	5	4
+8	7	7
+9	3	3
+
+Facility Id: 372
+Resource ID 	 Requested	 Allocated
+0	20	19
+1	27	27
+2	31	22
+3	42	37
+4	15	13
+5	8	8
+6	19	19
+7	10	5
+8	13	13
+9	5	5
+
+Facility Id: 373
+Resource ID 	 Requested	 Allocated
+0	13	6
+1	17	3
+2	20	14
+3	27	12
+4	9	6
+5	5	5
+6	12	12
+7	6	4
+8	8	8
+9	3	3
+
+Facility Id: 374
+Resource ID 	 Requested	 Allocated
+0	0	0
+1	0	0
+2	0	0
+3	0	0
+4	0	0
+5	0	0
+6	0	0
+7	0	0
+8	0	0
+9	0	0
+
+Facility Id: 375
+Resource ID 	 Requested	 Allocated
+0	8	4
+1	10	8
+2	12	11
+3	16	15
+4	6	5
+5	3	3
+6	7	7
+7	4	2
+8	5	5
+9	2	2
+
+Facility Id: 376
+Resource ID 	 Requested	 Allocated
+0	4	4
+1	6	5
+2	7	3
+3	9	5
+4	3	1
+5	2	2
+6	4	4
+7	2	2
+8	3	3
+9	1	1
+
+Facility Id: 377
+Resource ID 	 Requested	 Allocated
+0	18	18
+1	23	19
+2	27	27
+3	36	33
+4	13	7
+5	7	7
+6	17	17
+7	8	4
+8	11	11
+9	5	5
+
+Facility Id: 378
+Resource ID 	 Requested	 Allocated
+0	14	12
+1	18	9
+2	21	15
+3	29	25
+4	10	5
+5	6	6
+6	13	13
+7	7	7
+8	9	9
+9	4	4
+
+Facility Id: 379
+Resource ID 	 Requested	 Allocated
+0	10	10
+1	12	11
+2	15	13
+3	19	12
+4	7	7
+5	4	4
+6	9	9
+7	5	3
+8	6	6
+9	2	2
+
+Facility Id: 380
+Resource ID 	 Requested	 Allocated
+0	13	13
+1	17	17
+2	20	20
+3	27	20
+4	9	9
+5	5	5
+6	12	12
+7	6	5
+8	8	8
+9	3	3
+
+Facility Id: 381
+Resource ID 	 Requested	 Allocated
+0	14	8
+1	18	12
+2	21	21
+3	28	25
+4	10	5
+5	5	5
+6	13	13
+7	6	3
+8	9	9
+9	4	4
+
+Facility Id: 382
+Resource ID 	 Requested	 Allocated
+0	5	5
+1	6	3
+2	8	8
+3	10	9
+4	4	4
+5	2	2
+6	5	5
+7	2	1
+8	3	3
+9	1	1
+
+Facility Id: 383
+Resource ID 	 Requested	 Allocated
+0	4	0
+1	5	3
+2	6	2
+3	8	3
+4	3	2
+5	2	2
+6	4	4
+7	2	1
+8	3	3
+9	1	1
+
+Facility Id: 384
+Resource ID 	 Requested	 Allocated
+0	21	18
+1	28	28
+2	33	32
+3	44	43
+4	16	10
+5	8	8
+6	20	20
+7	10	7
+8	14	14
+9	6	6
+
+Facility Id: 385
+Resource ID 	 Requested	 Allocated
+0	2	1
+1	2	2
+2	3	0
+3	4	0
+4	1	1
+5	1	1
+6	2	2
+7	1	1
+8	1	1
+9	0	0
+
+Facility Id: 386
+Resource ID 	 Requested	 Allocated
+0	7	5
+1	9	8
+2	10	6
+3	14	11
+4	5	1
+5	3	3
+6	6	6
+7	3	1
+8	4	4
+9	2	2
+
+Facility Id: 387
+Resource ID 	 Requested	 Allocated
+0	8	6
+1	11	6
+2	13	9
+3	17	9
+4	6	5
+5	3	3
+6	8	8
+7	4	2
+8	5	5
+9	2	2
+
+Facility Id: 388
+Resource ID 	 Requested	 Allocated
+0	16	12
+1	21	21
+2	25	17
+3	33	16
+4	12	11
+5	6	6
+6	15	15
+7	8	6
+8	10	10
+9	4	4
+
+Facility Id: 389
+Resource ID 	 Requested	 Allocated
+0	10	5
+1	12	12
+2	15	15
+3	19	13
+4	7	7
+5	4	4
+6	9	9
+7	5	5
+8	6	6
+9	2	2
+
+Facility Id: 390
+Resource ID 	 Requested	 Allocated
+0	15	11
+1	19	11
+2	23	16
+3	30	23
+4	11	5
+5	6	6
+6	14	14
+7	7	5
+8	9	9
+9	4	4
+
+Facility Id: 391
+Resource ID 	 Requested	 Allocated
+0	8	7
+1	11	5
+2	13	11
+3	17	10
+4	6	4
+5	3	3
+6	8	8
+7	4	4
+8	5	5
+9	2	2
+
+Facility Id: 392
+Resource ID 	 Requested	 Allocated
+0	18	15
+1	24	13
+2	28	17
+3	37	21
+4	13	6
+5	7	7
+6	17	17
+7	9	5
+8	11	11
+9	5	5
+
+Facility Id: 393
+Resource ID 	 Requested	 Allocated
+0	15	7
+1	19	19
+2	23	16
+3	30	30
+4	11	11
+5	6	6
+6	14	14
+7	7	7
+8	9	9
+9	4	4
+
+Facility Id: 394
+Resource ID 	 Requested	 Allocated
+0	22	12
+1	28	16
+2	33	19
+3	44	13
+4	16	8
+5	9	9
+6	20	20
+7	10	7
+8	14	14
+9	6	6
+
+Facility Id: 395
+Resource ID 	 Requested	 Allocated
+0	13	10
+1	17	16
+2	20	20
+3	27	24
+4	9	9
+5	5	5
+6	12	12
+7	6	5
+8	8	8
+9	3	3
+
+Facility Id: 396
+Resource ID 	 Requested	 Allocated
+0	8	4
+1	10	10
+2	12	12
+3	16	9
+4	6	4
+5	3	3
+6	7	7
+7	4	3
+8	5	5
+9	2	2
+
+Facility Id: 397
+Resource ID 	 Requested	 Allocated
+0	4	2
+1	5	2
+2	6	4
+3	8	0
+4	3	0
+5	1	1
+6	4	4
+7	2	2
+8	2	2
+9	1	1
+
+Facility Id: 398
+Resource ID 	 Requested	 Allocated
+0	0	0
+1	0	0
+2	0	0
+3	0	0
+4	0	0
+5	0	0
+6	0	0
+7	0	0
+8	0	0
+9	0	0
+
+Facility Id: 399
+Resource ID 	 Requested	 Allocated
+0	15	10
+1	20	18
+2	24	24
+3	32	30
+4	11	10
+5	6	6
+6	14	14
+7	7	7
+8	10	10
+9	4	4
+
+Facility Id: 400
+Resource ID 	 Requested	 Allocated
+0	9	3
+1	12	7
+2	14	5
+3	19	6
+4	7	7
+5	4	4
+6	9	9
+7	4	3
+8	6	6
+9	2	2
+
+Facility Id: 401
+Resource ID 	 Requested	 Allocated
+0	18	18
+1	24	14
+2	28	26
+3	38	38
+4	13	9
+5	7	7
+6	17	17
+7	9	8
+8	12	12
+9	5	5
+
+Facility Id: 402
+Resource ID 	 Requested	 Allocated
+0	10	5
+1	13	11
+2	15	11
+3	20	10
+4	7	7
+5	4	4
+6	9	9
+7	5	4
+8	6	6
+9	3	3
+
+Facility Id: 403
+Resource ID 	 Requested	 Allocated
+0	16	16
+1	21	9
+2	25	17
+3	33	32
+4	12	1
+5	6	6
+6	15	15
+7	8	8
+8	10	10
+9	4	4
+
+Facility Id: 404
+Resource ID 	 Requested	 Allocated
+0	9	4
+1	12	11
+2	14	14
+3	18	18
+4	6	5
+5	4	4
+6	8	8
+7	4	4
+8	6	6
+9	2	2
+
+Facility Id: 405
+Resource ID 	 Requested	 Allocated
+0	17	9
+1	22	13
+2	27	15
+3	35	10
+4	12	7
+5	7	7
+6	16	16
+7	8	4
+8	11	11
+9	4	4
+
+Facility Id: 406
+Resource ID 	 Requested	 Allocated
+0	18	11
+1	24	24
+2	28	24
+3	38	19
+4	13	13
+5	7	7
+6	17	17
+7	9	8
+8	12	12
+9	5	5
+
+Facility Id: 407
+Resource ID 	 Requested	 Allocated
+0	10	10
+1	12	11
+2	15	11
+3	19	16
+4	7	4
+5	4	4
+6	9	9
+7	5	2
+8	6	6
+9	2	2
+
+Facility Id: 408
+Resource ID 	 Requested	 Allocated
+0	9	5
+1	12	6
+2	14	9
+3	19	13
+4	7	6
+5	4	4
+6	8	8
+7	4	2
+8	6	6
+9	2	2
+
+Facility Id: 409
+Resource ID 	 Requested	 Allocated
+0	19	16
+1	25	23
+2	29	29
+3	39	24
+4	14	12
+5	7	7
+6	18	18
+7	9	5
+8	12	12
+9	5	5
+
+Facility Id: 410
+Resource ID 	 Requested	 Allocated
+0	21	16
+1	28	18
+2	33	28
+3	44	44
+4	16	12
+5	8	8
+6	20	20
+7	10	10
+8	14	14
+9	6	6
+
+Facility Id: 411
+Resource ID 	 Requested	 Allocated
+0	6	4
+1	7	3
+2	9	7
+3	12	11
+4	4	3
+5	2	2
+6	5	5
+7	3	1
+8	4	4
+9	1	1
+
+Facility Id: 412
+Resource ID 	 Requested	 Allocated
+0	11	5
+1	14	10
+2	16	14
+3	22	17
+4	8	4
+5	4	4
+6	10	10
+7	5	5
+8	7	7
+9	3	3
+
+Facility Id: 413
+Resource ID 	 Requested	 Allocated
+0	1	1
+1	1	1
+2	1	0
+3	2	2
+4	1	1
+5	0	0
+6	1	1
+7	0	0
+8	1	1
+9	0	0
+
+Facility Id: 414
+Resource ID 	 Requested	 Allocated
+0	20	15
+1	26	23
+2	31	15
+3	41	27
+4	15	15
+5	8	8
+6	19	19
+7	10	10
+8	13	13
+9	5	5
+
+Facility Id: 415
+Resource ID 	 Requested	 Allocated
+0	19	13
+1	24	22
+2	29	28
+3	38	22
+4	13	4
+5	7	7
+6	17	17
+7	9	7
+8	12	12
+9	5	5
+
+Facility Id: 416
+Resource ID 	 Requested	 Allocated
+0	9	9
+1	12	10
+2	14	13
+3	18	11
+4	6	5
+5	4	4
+6	8	8
+7	4	4
+8	6	6
+9	2	2
+
+Facility Id: 417
+Resource ID 	 Requested	 Allocated
+0	6	2
+1	7	7
+2	9	9
+3	12	10
+4	4	1
+5	2	2
+6	5	5
+7	3	2
+8	4	4
+9	1	1
+
+Facility Id: 418
+Resource ID 	 Requested	 Allocated
+0	19	17
+1	25	22
+2	29	19
+3	39	24
+4	14	14
+5	8	8
+6	18	18
+7	9	6
+8	12	12
+9	5	5
+
+Facility Id: 419
+Resource ID 	 Requested	 Allocated
+0	14	9
+1	19	16
+2	22	15
+3	29	22
+4	10	8
+5	6	6
+6	13	13
+7	7	4
+8	9	9
+9	4	4
+
+Facility Id: 420
+Resource ID 	 Requested	 Allocated
+0	7	6
+1	9	9
+2	10	5
+3	14	7
+4	5	5
+5	3	3
+6	6	6
+7	3	3
+8	4	4
+9	2	2
+
+Facility Id: 421
+Resource ID 	 Requested	 Allocated
+0	20	14
+1	26	22
+2	30	19
+3	40	24
+4	14	10
+5	8	8
+6	18	18
+7	9	9
+8	12	12
+9	5	5
+
+Facility Id: 422
+Resource ID 	 Requested	 Allocated
+0	19	11
+1	25	18
+2	29	20
+3	39	21
+4	14	11
+5	8	8
+6	18	18
+7	9	9
+8	12	12
+9	5	5
+
+Facility Id: 423
+Resource ID 	 Requested	 Allocated
+0	12	12
+1	15	13
+2	18	16
+3	24	24
+4	8	7
+5	5	5
+6	11	11
+7	5	5
+8	7	7
+9	3	3
+
+Facility Id: 424
+Resource ID 	 Requested	 Allocated
+0	12	12
+1	15	13
+2	18	17
+3	24	18
+4	8	8
+5	5	5
+6	11	11
+7	5	5
+8	7	7
+9	3	3
+
+Facility Id: 425
+Resource ID 	 Requested	 Allocated
+0	10	2
+1	13	10
+2	16	8
+3	21	13
+4	7	3
+5	4	4
+6	10	10
+7	5	2
+8	6	6
+9	3	3
+
+Facility Id: 426
+Resource ID 	 Requested	 Allocated
+0	22	19
+1	28	26
+2	33	20
+3	44	39
+4	16	10
+5	9	9
+6	20	20
+7	10	8
+8	14	14
+9	6	6
+
+Facility Id: 427
+Resource ID 	 Requested	 Allocated
+0	8	8
+1	10	9
+2	12	12
+3	15	11
+4	5	5
+5	3	3
+6	7	7
+7	4	4
+8	5	5
+9	2	2
+
+Facility Id: 428
+Resource ID 	 Requested	 Allocated
+0	4	0
+1	6	0
+2	7	7
+3	9	8
+4	3	1
+5	2	2
+6	4	4
+7	2	2
+8	3	3
+9	1	1
+
+Facility Id: 429
+Resource ID 	 Requested	 Allocated
+0	12	7
+1	15	9
+2	18	14
+3	24	12
+4	8	8
+5	5	5
+6	11	11
+7	5	2
+8	7	7
+9	3	3
+
+Facility Id: 430
+Resource ID 	 Requested	 Allocated
+0	11	9
+1	14	12
+2	17	8
+3	22	13
+4	8	0
+5	4	4
+6	10	10
+7	5	3
+8	7	7
+9	3	3
+
+Facility Id: 431
+Resource ID 	 Requested	 Allocated
+0	17	9
+1	22	14
+2	26	20
+3	34	22
+4	12	7
+5	7	7
+6	16	16
+7	8	7
+8	11	11
+9	4	4
+
+Facility Id: 432
+Resource ID 	 Requested	 Allocated
+0	4	4
+1	5	2
+2	6	5
+3	9	8
+4	3	2
+5	2	2
+6	4	4
+7	2	2
+8	3	3
+9	1	1
+
+Facility Id: 433
+Resource ID 	 Requested	 Allocated
+0	6	4
+1	7	6
+2	9	9
+3	11	11
+4	4	2
+5	2	2
+6	5	5
+7	3	1
+8	3	3
+9	1	1
+
+Facility Id: 434
+Resource ID 	 Requested	 Allocated
+0	21	15
+1	27	26
+2	32	27
+3	43	37
+4	15	12
+5	8	8
+6	19	19
+7	10	9
+8	13	13
+9	5	5
+
+Facility Id: 435
+Resource ID 	 Requested	 Allocated
+0	0	0
+1	0	0
+2	0	0
+3	0	0
+4	0	0
+5	0	0
+6	0	0
+7	0	0
+8	0	0
+9	0	0
+
+Facility Id: 436
+Resource ID 	 Requested	 Allocated
+0	18	16
+1	24	12
+2	28	21
+3	37	27
+4	13	6
+5	7	7
+6	17	17
+7	9	6
+8	11	11
+9	5	5
+
+Facility Id: 437
+Resource ID 	 Requested	 Allocated
+0	0	0
+1	1	0
+2	1	1
+3	1	0
+4	0	0
+5	0	0
+6	0	0
+7	0	0
+8	0	0
+9	0	0
+
+Facility Id: 438
+Resource ID 	 Requested	 Allocated
+0	12	8
+1	16	16
+2	18	13
+3	24	23
+4	9	9
+5	5	5
+6	11	11
+7	6	6
+8	8	8
+9	3	3
+
+Facility Id: 439
+Resource ID 	 Requested	 Allocated
+0	10	10
+1	14	14
+2	16	16
+3	21	21
+4	8	6
+5	4	4
+6	10	10
+7	5	4
+8	7	7
+9	3	3
+
+Facility Id: 440
+Resource ID 	 Requested	 Allocated
+0	14	7
+1	18	9
+2	21	1
+3	29	7
+4	10	7
+5	6	6
+6	13	13
+7	7	4
+8	9	9
+9	4	4
+
+Facility Id: 441
+Resource ID 	 Requested	 Allocated
+0	2	1
+1	3	3
+2	4	3
+3	5	4
+4	2	1
+5	1	1
+6	2	2
+7	1	0
+8	2	2
+9	1	1
+
+Facility Id: 442
+Resource ID 	 Requested	 Allocated
+0	2	1
+1	2	2
+2	3	1
+3	4	0
+4	1	0
+5	1	1
+6	2	2
+7	1	0
+8	1	1
+9	0	0
+
+Facility Id: 443
+Resource ID 	 Requested	 Allocated
+0	15	12
+1	20	18
+2	23	7
+3	31	0
+4	11	11
+5	6	6
+6	14	14
+7	7	0
+8	9	9
+9	4	4
+
+Facility Id: 444
+Resource ID 	 Requested	 Allocated
+0	21	21
+1	28	22
+2	33	0
+3	44	0
+4	15	14
+5	8	8
+6	20	20
+7	10	0
+8	13	13
+9	5	5
+
+Facility Id: 445
+Resource ID 	 Requested	 Allocated
+0	21	17
+1	28	25
+2	33	0
+3	44	0
+4	15	15
+5	8	8
+6	20	20
+7	10	0
+8	13	13
+9	5	5
+
+Facility Id: 446
+Resource ID 	 Requested	 Allocated
+0	3	0
+1	4	1
+2	5	0
+3	6	0
+4	2	0
+5	1	1
+6	3	3
+7	1	0
+8	2	2
+9	1	1
+
+Facility Id: 447
+Resource ID 	 Requested	 Allocated
+0	20	9
+1	26	22
+2	31	0
+3	41	0
+4	15	14
+5	8	8
+6	19	19
+7	10	0
+8	13	13
+9	5	5
+
+Facility Id: 448
+Resource ID 	 Requested	 Allocated
+0	5	0
+1	6	2
+2	7	0
+3	10	0
+4	3	2
+5	2	2
+6	4	4
+7	2	0
+8	3	3
+9	1	1
+
+Facility Id: 449
+Resource ID 	 Requested	 Allocated
+0	19	0
+1	24	14
+2	29	0
+3	38	0
+4	13	11
+5	7	7
+6	17	17
+7	9	0
+8	12	12
+9	5	5
+
+Facility Id: 450
+Resource ID 	 Requested	 Allocated
+0	17	0
+1	23	23
+2	27	0
+3	36	0
+4	13	3
+5	7	7
+6	16	16
+7	8	0
+8	11	11
+9	5	5
+
+Facility Id: 451
+Resource ID 	 Requested	 Allocated
+0	22	0
+1	29	12
+2	34	0
+3	45	0
+4	16	0
+5	9	9
+6	21	21
+7	10	0
+8	14	14
+9	6	6
+
+Facility Id: 452
+Resource ID 	 Requested	 Allocated
+0	4	0
+1	5	5
+2	6	0
+3	8	0
+4	3	0
+5	1	1
+6	4	4
+7	2	0
+8	2	2
+9	1	1
+
+Facility Id: 453
+Resource ID 	 Requested	 Allocated
+0	10	0
+1	13	13
+2	15	0
+3	20	0
+4	7	0
+5	4	4
+6	9	9
+7	5	0
+8	6	6
+9	3	3
+
+Facility Id: 454
+Resource ID 	 Requested	 Allocated
+0	14	0
+1	18	8
+2	22	0
+3	29	0
+4	10	0
+5	6	6
+6	13	13
+7	7	0
+8	9	9
+9	4	4
+
+Facility Id: 455
+Resource ID 	 Requested	 Allocated
+0	6	0
+1	7	5
+2	9	0
+3	11	0
+4	4	0
+5	2	2
+6	5	5
+7	3	0
+8	3	3
+9	1	1
+
+Facility Id: 456
+Resource ID 	 Requested	 Allocated
+0	2	0
+1	2	2
+2	3	0
+3	4	0
+4	1	0
+5	1	1
+6	2	2
+7	1	0
+8	1	1
+9	0	0
+
+Facility Id: 457
+Resource ID 	 Requested	 Allocated
+0	15	0
+1	19	15
+2	23	0
+3	30	0
+4	11	0
+5	6	6
+6	14	14
+7	7	0
+8	9	9
+9	4	4
+
+Facility Id: 458
+Resource ID 	 Requested	 Allocated
+0	6	0
+1	7	0
+2	9	0
+3	11	0
+4	4	0
+5	2	2
+6	5	5
+7	3	0
+8	3	3
+9	1	1
+
+Facility Id: 459
+Resource ID 	 Requested	 Allocated
+0	19	0
+1	25	16
+2	29	0
+3	39	0
+4	14	0
+5	8	8
+6	18	18
+7	9	0
+8	12	12
+9	5	5
+
+Facility Id: 460
+Resource ID 	 Requested	 Allocated
+0	14	0
+1	18	10
+2	21	0
+3	29	0
+4	10	0
+5	6	6
+6	13	13
+7	7	0
+8	9	9
+9	4	4
+
+Facility Id: 461
+Resource ID 	 Requested	 Allocated
+0	3	0
+1	4	1
+2	5	0
+3	6	0
+4	2	0
+5	1	1
+6	3	3
+7	1	0
+8	2	2
+9	1	1
+
+Facility Id: 462
+Resource ID 	 Requested	 Allocated
+0	1	0
+1	1	1
+2	2	0
+3	2	0
+4	1	0
+5	0	0
+6	1	1
+7	1	0
+8	1	1
+9	0	0
+
+Facility Id: 463
+Resource ID 	 Requested	 Allocated
+0	8	0
+1	11	11
+2	13	0
+3	17	0
+4	6	0
+5	3	3
+6	8	8
+7	4	0
+8	5	5
+9	2	2
+
+Facility Id: 464
+Resource ID 	 Requested	 Allocated
+0	7	0
+1	9	0
+2	11	0
+3	15	0
+4	5	0
+5	3	3
+6	7	7
+7	3	0
+8	4	4
+9	2	2
+
+Facility Id: 465
+Resource ID 	 Requested	 Allocated
+0	1	0
+1	2	2
+2	2	0
+3	3	0
+4	1	0
+5	1	1
+6	1	1
+7	1	0
+8	1	1
+9	0	0
+
+Facility Id: 466
+Resource ID 	 Requested	 Allocated
+0	21	0
+1	28	26
+2	33	0
+3	44	0
+4	15	0
+5	8	8
+6	20	20
+7	10	0
+8	13	13
+9	5	5
+
+Facility Id: 467
+Resource ID 	 Requested	 Allocated
+0	21	0
+1	27	17
+2	32	0
+3	42	0
+4	15	0
+5	8	8
+6	19	19
+7	10	0
+8	13	13
+9	5	5
+
+Facility Id: 468
+Resource ID 	 Requested	 Allocated
+0	19	0
+1	25	15
+2	29	0
+3	39	0
+4	14	0
+5	7	7
+6	18	18
+7	9	0
+8	12	12
+9	5	5
+
+Facility Id: 469
+Resource ID 	 Requested	 Allocated
+0	4	0
+1	5	3
+2	5	0
+3	7	0
+4	3	0
+5	1	1
+6	3	3
+7	2	0
+8	2	2
+9	1	1
+
+Facility Id: 470
+Resource ID 	 Requested	 Allocated
+0	9	0
+1	12	10
+2	14	0
+3	18	0
+4	6	0
+5	4	4
+6	8	8
+7	4	0
+8	6	6
+9	2	2
+
+Facility Id: 471
+Resource ID 	 Requested	 Allocated
+0	12	0
+1	16	16
+2	19	0
+3	25	0
+4	9	0
+5	5	5
+6	12	12
+7	6	0
+8	8	8
+9	3	3
+
+Facility Id: 472
+Resource ID 	 Requested	 Allocated
+0	4	0
+1	5	2
+2	6	0
+3	8	0
+4	3	0
+5	2	2
+6	4	4
+7	2	0
+8	3	3
+9	1	1
+
+Facility Id: 473
+Resource ID 	 Requested	 Allocated
+0	3	0
+1	4	3
+2	4	0
+3	6	0
+4	2	0
+5	1	1
+6	3	3
+7	1	0
+8	2	2
+9	1	1
+
+Facility Id: 474
+Resource ID 	 Requested	 Allocated
+0	7	0
+1	9	8
+2	11	0
+3	14	0
+4	5	0
+5	3	3
+6	6	6
+7	3	0
+8	4	4
+9	2	2
+
+Facility Id: 475
+Resource ID 	 Requested	 Allocated
+0	5	0
+1	7	4
+2	8	0
+3	11	0
+4	4	0
+5	2	2
+6	5	5
+7	3	0
+8	3	3
+9	1	1
+
+Facility Id: 476
+Resource ID 	 Requested	 Allocated
+0	6	0
+1	7	7
+2	9	0
+3	11	0
+4	4	0
+5	2	2
+6	5	5
+7	3	0
+8	3	3
+9	1	1
+
+Facility Id: 477
+Resource ID 	 Requested	 Allocated
+0	12	0
+1	16	11
+2	18	0
+3	24	0
+4	9	0
+5	5	5
+6	11	11
+7	6	0
+8	8	8
+9	3	3
+
+Facility Id: 478
+Resource ID 	 Requested	 Allocated
+0	20	0
+1	26	15
+2	30	0
+3	40	0
+4	14	0
+5	8	8
+6	18	18
+7	9	0
+8	12	12
+9	5	5
+
+Facility Id: 479
+Resource ID 	 Requested	 Allocated
+0	3	0
+1	4	3
+2	5	0
+3	6	0
+4	2	0
+5	1	1
+6	3	3
+7	1	0
+8	2	2
+9	1	1
+
+Facility Id: 480
+Resource ID 	 Requested	 Allocated
+0	13	0
+1	17	10
+2	20	0
+3	27	0
+4	9	0
+5	5	5
+6	12	12
+7	6	0
+8	8	8
+9	3	3
+
+Facility Id: 481
+Resource ID 	 Requested	 Allocated
+0	20	0
+1	26	19
+2	30	0
+3	40	0
+4	14	0
+5	8	8
+6	18	18
+7	9	0
+8	12	12
+9	5	5
+
+Facility Id: 482
+Resource ID 	 Requested	 Allocated
+0	4	0
+1	5	5
+2	6	0
+3	8	0
+4	3	0
+5	1	1
+6	4	4
+7	2	0
+8	2	2
+9	1	1
+
+Facility Id: 483
+Resource ID 	 Requested	 Allocated
+0	12	0
+1	16	8
+2	19	0
+3	25	0
+4	9	0
+5	5	5
+6	12	12
+7	6	0
+8	8	8
+9	3	3
+
+Facility Id: 484
+Resource ID 	 Requested	 Allocated
+0	6	0
+1	7	7
+2	9	0
+3	11	0
+4	4	0
+5	2	2
+6	5	5
+7	3	0
+8	3	3
+9	1	1
+
+Facility Id: 485
+Resource ID 	 Requested	 Allocated
+0	3	0
+1	3	2
+2	4	0
+3	5	0
+4	2	0
+5	1	1
+6	2	2
+7	1	0
+8	2	2
+9	1	1
+
+Facility Id: 486
+Resource ID 	 Requested	 Allocated
+0	5	0
+1	7	5
+2	8	0
+3	10	0
+4	4	0
+5	2	2
+6	5	5
+7	2	0
+8	3	3
+9	1	1
+
+Facility Id: 487
+Resource ID 	 Requested	 Allocated
+0	5	0
+1	6	6
+2	7	0
+3	10	0
+4	3	0
+5	2	2
+6	4	4
+7	2	0
+8	3	3
+9	1	1
+
+Facility Id: 488
+Resource ID 	 Requested	 Allocated
+0	14	0
+1	19	16
+2	22	0
+3	29	0
+4	10	0
+5	6	6
+6	13	13
+7	7	0
+8	9	9
+9	4	4
+
+Facility Id: 489
+Resource ID 	 Requested	 Allocated
+0	10	0
+1	13	12
+2	15	0
+3	20	0
+4	7	0
+5	4	4
+6	9	9
+7	5	0
+8	6	6
+9	3	3
+
+Facility Id: 490
+Resource ID 	 Requested	 Allocated
+0	6	0
+1	8	7
+2	10	0
+3	13	0
+4	5	0
+5	3	3
+6	6	6
+7	3	0
+8	4	4
+9	2	2
+
+Facility Id: 491
+Resource ID 	 Requested	 Allocated
+0	7	0
+1	9	8
+2	10	0
+3	14	0
+4	5	0
+5	3	3
+6	6	6
+7	3	0
+8	4	4
+9	2	2
+
+Facility Id: 492
+Resource ID 	 Requested	 Allocated
+0	4	0
+1	5	5
+2	6	0
+3	8	0
+4	3	0
+5	2	2
+6	4	4
+7	2	0
+8	3	3
+9	1	1
+
+Facility Id: 493
+Resource ID 	 Requested	 Allocated
+0	4	0
+1	5	4
+2	5	0
+3	7	0
+4	3	0
+5	1	1
+6	3	3
+7	2	0
+8	2	2
+9	1	1
+
+Facility Id: 494
+Resource ID 	 Requested	 Allocated
+0	6	0
+1	8	8
+2	10	0
+3	13	0
+4	5	0
+5	3	3
+6	6	6
+7	3	0
+8	4	4
+9	2	2
+
+Facility Id: 495
+Resource ID 	 Requested	 Allocated
+0	10	0
+1	13	13
+2	15	0
+3	20	0
+4	7	0
+5	4	4
+6	9	9
+7	5	0
+8	6	6
+9	3	3
+
+Facility Id: 496
+Resource ID 	 Requested	 Allocated
+0	17	0
+1	22	21
+2	26	0
+3	34	0
+4	12	0
+5	7	7
+6	16	16
+7	8	0
+8	10	10
+9	4	4
+
+Facility Id: 497
+Resource ID 	 Requested	 Allocated
+0	17	0
+1	22	14
+2	26	0
+3	35	0
+4	12	0
+5	7	7
+6	16	16
+7	8	0
+8	11	11
+9	4	4
+
+Facility Id: 498
+Resource ID 	 Requested	 Allocated
+0	14	0
+1	18	6
+2	21	0
+3	28	0
+4	10	0
+5	5	5
+6	13	13
+7	6	0
+8	9	9
+9	4	4
+
+Facility Id: 499
+Resource ID 	 Requested	 Allocated
+0	19	0
+1	25	25
+2	29	0
+3	39	0
+4	14	0
+5	7	7
+6	18	18
+7	9	0
+8	12	12
+9	5	5
+
+
+array (
+  'Time' => 9627.102624893188,
+)

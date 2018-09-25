@@ -1,0 +1,423 @@
+Available
+array (
+  0 => '1189',
+  1 => '8858',
+  2 => '8420',
+  3 => '3076',
+  4 => '2994',
+)Loacked Resources
+array (
+  0 => 1,
+  1 => 1,
+  2 => 0,
+  3 => 0,
+  4 => 0,
+)Generator started...
+26718509
+24523885
+24292395
+Allcated
+Facility Id: 0
+Resource ID 	 Requested	 Allocated
+0	28	28
+1	210	210
+2	199	199
+3	109	109
+4	106	106
+
+Facility Id: 1
+Resource ID 	 Requested	 Allocated
+0	46	46
+1	343	343
+2	326	326
+3	178	0
+4	174	174
+
+Facility Id: 2
+Resource ID 	 Requested	 Allocated
+0	31	31
+1	234	234
+2	223	0
+3	122	0
+4	119	0
+
+Facility Id: 3
+Resource ID 	 Requested	 Allocated
+0	34	34
+1	252	252
+2	239	239
+3	131	131
+4	128	128
+
+Facility Id: 4
+Resource ID 	 Requested	 Allocated
+0	21	21
+1	157	157
+2	150	0
+3	82	82
+4	80	80
+
+Facility Id: 5
+Resource ID 	 Requested	 Allocated
+0	24	24
+1	182	182
+2	173	173
+3	95	0
+4	92	75
+
+Facility Id: 6
+Resource ID 	 Requested	 Allocated
+0	3	3
+1	21	21
+2	20	0
+3	11	0
+4	11	0
+
+Facility Id: 7
+Resource ID 	 Requested	 Allocated
+0	38	38
+1	283	283
+2	269	269
+3	147	147
+4	144	144
+
+Facility Id: 8
+Resource ID 	 Requested	 Allocated
+0	40	40
+1	297	297
+2	282	282
+3	155	155
+4	151	151
+
+Facility Id: 9
+Resource ID 	 Requested	 Allocated
+0	5	5
+1	35	35
+2	33	0
+3	18	18
+4	18	0
+
+Facility Id: 10
+Resource ID 	 Requested	 Allocated
+0	1	1
+1	10	10
+2	10	0
+3	5	0
+4	5	0
+
+Facility Id: 11
+Resource ID 	 Requested	 Allocated
+0	15	15
+1	112	112
+2	106	106
+3	58	48
+4	57	57
+
+Facility Id: 12
+Resource ID 	 Requested	 Allocated
+0	1	1
+1	10	10
+2	10	0
+3	5	0
+4	5	1
+
+Facility Id: 13
+Resource ID 	 Requested	 Allocated
+0	12	12
+1	91	91
+2	86	86
+3	47	47
+4	46	45
+
+Facility Id: 14
+Resource ID 	 Requested	 Allocated
+0	2	2
+1	17	17
+2	17	0
+3	9	0
+4	9	0
+
+Facility Id: 15
+Resource ID 	 Requested	 Allocated
+0	40	40
+1	301	301
+2	286	285
+3	157	140
+4	152	149
+
+Facility Id: 16
+Resource ID 	 Requested	 Allocated
+0	42	42
+1	315	315
+2	299	188
+3	164	152
+4	160	107
+
+Facility Id: 17
+Resource ID 	 Requested	 Allocated
+0	40	40
+1	297	297
+2	282	248
+3	155	143
+4	151	151
+
+Facility Id: 18
+Resource ID 	 Requested	 Allocated
+0	18	18
+1	136	136
+2	130	0
+3	71	46
+4	69	0
+
+Facility Id: 19
+Resource ID 	 Requested	 Allocated
+0	39	39
+1	290	290
+2	276	249
+3	151	151
+4	147	147
+
+Facility Id: 20
+Resource ID 	 Requested	 Allocated
+0	22	22
+1	161	161
+2	153	114
+3	84	0
+4	82	0
+
+Facility Id: 21
+Resource ID 	 Requested	 Allocated
+0	22	22
+1	164	164
+2	156	156
+3	86	86
+4	83	83
+
+Facility Id: 22
+Resource ID 	 Requested	 Allocated
+0	6	6
+1	45	45
+2	43	0
+3	24	0
+4	23	0
+
+Facility Id: 23
+Resource ID 	 Requested	 Allocated
+0	40	40
+1	297	297
+2	282	282
+3	155	155
+4	151	151
+
+Facility Id: 24
+Resource ID 	 Requested	 Allocated
+0	23	23
+1	171	171
+2	163	0
+3	89	89
+4	87	87
+
+Facility Id: 25
+Resource ID 	 Requested	 Allocated
+0	15	15
+1	112	112
+2	106	0
+3	58	0
+4	57	0
+
+Facility Id: 26
+Resource ID 	 Requested	 Allocated
+0	29	29
+1	217	217
+2	206	206
+3	113	113
+4	110	110
+
+Facility Id: 27
+Resource ID 	 Requested	 Allocated
+0	16	16
+1	122	122
+2	116	0
+3	64	64
+4	62	62
+
+Facility Id: 28
+Resource ID 	 Requested	 Allocated
+0	18	18
+1	136	136
+2	130	130
+3	71	71
+4	69	69
+
+Facility Id: 29
+Resource ID 	 Requested	 Allocated
+0	21	21
+1	157	157
+2	150	0
+3	82	82
+4	80	80
+
+Facility Id: 30
+Resource ID 	 Requested	 Allocated
+0	12	12
+1	87	87
+2	83	83
+3	46	45
+4	44	0
+
+Facility Id: 31
+Resource ID 	 Requested	 Allocated
+0	35	35
+1	259	259
+2	246	246
+3	135	135
+4	131	98
+
+Facility Id: 32
+Resource ID 	 Requested	 Allocated
+0	19	19
+1	143	143
+2	136	0
+3	75	0
+4	73	73
+
+Facility Id: 33
+Resource ID 	 Requested	 Allocated
+0	13	13
+1	94	94
+2	90	90
+3	49	49
+4	48	48
+
+Facility Id: 34
+Resource ID 	 Requested	 Allocated
+0	22	22
+1	161	161
+2	153	0
+3	84	0
+4	82	0
+
+Facility Id: 35
+Resource ID 	 Requested	 Allocated
+0	33	33
+1	245	245
+2	233	233
+3	127	113
+4	124	124
+
+Facility Id: 36
+Resource ID 	 Requested	 Allocated
+0	30	30
+1	227	227
+2	216	0
+3	118	76
+4	115	0
+
+Facility Id: 37
+Resource ID 	 Requested	 Allocated
+0	38	38
+1	283	283
+2	269	257
+3	147	133
+4	144	138
+
+Facility Id: 38
+Resource ID 	 Requested	 Allocated
+0	2	2
+1	17	17
+2	17	0
+3	9	0
+4	9	0
+
+Facility Id: 39
+Resource ID 	 Requested	 Allocated
+0	41	41
+1	308	308
+2	292	292
+3	160	160
+4	156	146
+
+Facility Id: 40
+Resource ID 	 Requested	 Allocated
+0	25	25
+1	185	185
+2	176	176
+3	97	97
+4	94	47
+
+Facility Id: 41
+Resource ID 	 Requested	 Allocated
+0	17	17
+1	129	129
+2	123	119
+3	67	0
+4	66	66
+
+Facility Id: 42
+Resource ID 	 Requested	 Allocated
+0	2	2
+1	17	17
+2	17	0
+3	9	0
+4	9	0
+
+Facility Id: 43
+Resource ID 	 Requested	 Allocated
+0	30	30
+1	220	220
+2	209	173
+3	115	84
+4	112	55
+
+Facility Id: 44
+Resource ID 	 Requested	 Allocated
+0	39	39
+1	290	290
+2	276	276
+3	151	151
+4	147	143
+
+Facility Id: 45
+Resource ID 	 Requested	 Allocated
+0	7	7
+1	49	49
+2	47	2
+3	25	0
+4	25	0
+
+Facility Id: 46
+Resource ID 	 Requested	 Allocated
+0	34	34
+1	252	252
+2	239	237
+3	131	131
+4	128	128
+
+Facility Id: 47
+Resource ID 	 Requested	 Allocated
+0	30	30
+1	220	220
+2	209	35
+3	115	115
+4	112	112
+
+Facility Id: 48
+Resource ID 	 Requested	 Allocated
+0	20	20
+1	150	150
+2	143	0
+3	78	0
+4	76	0
+
+Facility Id: 49
+Resource ID 	 Requested	 Allocated
+0	46	46
+1	343	343
+2	326	76
+3	178	131
+4	174	167
+
+
+array (
+  'Time' => 558.296856880188,
+)

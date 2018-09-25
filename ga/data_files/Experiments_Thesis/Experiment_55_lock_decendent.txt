@@ -1,0 +1,7 @@
+return [
+            'descendent' => true,
+            'useLoack'   => true,
+            'iterations' => 1000,
+        ];
+
+
